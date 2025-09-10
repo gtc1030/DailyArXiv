@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2025
+title: Latest 15 Papers - September 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,38 +64,38 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Topic Projected Opinion Dynamics for Resource Allocation](http://arxiv.org/abs/2509.07847v1)** | 2025-09-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted for presentation in IEEE Conference on Decision and Control (CDC), 2025</p></details> |
+| **[Filtering in Multivariate Systems with Quantized Measurements using a Gaussian Mixture-Based Indicator Approximation](http://arxiv.org/abs/2509.07837v1)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been acepted for presentation in the 64th IEEE Conference on Decision and Control. 6 pages, 8 Figures</p></details> |
+| **[State Estimation with Protecting Exogenous Inputs via Cramér-Rao Lower Bound Approach](http://arxiv.org/abs/2410.08756v2)** | 2025-09-09 |  |
+| **[Improving the Estimation of Lifetime Effects in A/B Testing via Treatment Locality](http://arxiv.org/abs/2407.19618v3)** | 2025-09-09 |  |
+| **[TransMPC: Transformer-based Explicit MPC with Variable Prediction Horizon](http://arxiv.org/abs/2509.07381v1)** | 2025-09-09 |  |
+| **[A novel statistical workflow for nonstationary modelling of successive Fréchet extremes](http://arxiv.org/abs/2509.07296v1)** | 2025-09-09 |  |
+| **[Learning Neural Koopman Operators with Dissipativity Guarantees](http://arxiv.org/abs/2509.07294v1)** | 2025-09-08 |  |
+| **[Quantum algorithms for general nonlinear dynamics based on the Carleman embedding](http://arxiv.org/abs/2509.07155v1)** | 2025-09-08 | <details><summary>70+78...</summary><p>70+78 pages, 4 figures. Comments welcome!</p></details> |
+| **[Maximally Resilient Controllers under Temporal Logic Specifications](http://arxiv.org/abs/2509.01777v2)** | 2025-09-08 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, conference</p></details> |
 | **[Neural CRNs: A Natural Implementation of Learning in Chemical Reaction Networks](http://arxiv.org/abs/2409.00034v4)** | 2025-09-08 |  |
 | **[Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model](http://arxiv.org/abs/2505.10438v3)** | 2025-09-08 | <details><summary>34 pa...</summary><p>34 pages, 28 figures Under review at Springer Nonlinear Dynamics</p></details> |
 | **[Identifiability and Maximum Likelihood Estimation for System Identification of Networks of Dynamical Systems](http://arxiv.org/abs/2506.20628v3)** | 2025-09-08 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Submitted to IEEE Transactions on Automatic Control</p></details> |
 | **[Parameter Robustness in Data-Driven Estimation of Dynamical Systems](http://arxiv.org/abs/2509.06534v1)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted for publication in the IEEE Conference on Decision and Control (CDC) 2025</p></details> |
 | **[Gaussian behaviors: representations and data-driven control](http://arxiv.org/abs/2504.15838v2)** | 2025-09-08 | <details><summary>Exten...</summary><p>Extended version of the paper accepted to the 64th IEEE Conference on Decision and Control</p></details> |
 | **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v3)** | 2025-09-08 | <details><summary>21 pa...</summary><p>21 pages, 15 figures (including Appendix)</p></details> |
-| **[A High-order Backpropagation Algorithm for Neural Stochastic Differential Equation Model](http://arxiv.org/abs/2509.06292v1)** | 2025-09-08 | 23 pages, 4 figures |
-| **[Statistical Inference for Misspecified Contextual Bandits](http://arxiv.org/abs/2509.06287v1)** | 2025-09-08 |  |
-| **[Neural Port-Hamiltonian Differential Algebraic Equations for Compositional Learning of Electrical Networks](http://arxiv.org/abs/2412.11215v3)** | 2025-09-06 |  |
-| **[Select, then Balance: A Plug-and-Play Framework for Exogenous-Aware Spatio-Temporal Forecasting](http://arxiv.org/abs/2509.05779v1)** | 2025-09-06 | 16 pages, 11 figures |
-| **[The Ground Cost for Optimal Transport of Angular Velocity](http://arxiv.org/abs/2504.03190v2)** | 2025-09-06 |  |
-| **[Flash STU: Fast Spectral Transform Units](http://arxiv.org/abs/2409.10489v5)** | 2025-09-06 |  |
-| **[Robust Feedback Optimization with Model Uncertainty: A Regularization Approach](http://arxiv.org/abs/2503.24151v2)** | 2025-09-06 | <details><summary>Proc....</summary><p>Proc. 64th IEEE Conference on Decision and Control</p></details> |
-| **[Destabilizing a Social Network Model via Intrinsic Feedback Vulnerabilities](http://arxiv.org/abs/2411.10868v5)** | 2025-09-05 |  |
-| **[State Estimation for Linear Systems with Non-Gaussian Measurement Noise via Dynamic Programming](http://arxiv.org/abs/2509.05482v1)** | 2025-09-05 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSRFormer: Road Network Representation Learning using Multi-scale Feature Fusion of Heterogeneous Spatial Interactions](http://arxiv.org/abs/2509.05685v2)** | 2025-09-09 |  |
+| **[A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges](http://arxiv.org/abs/2509.07887v1)** | 2025-09-09 | 16 pages, 1 figure |
+| **[Safeguarding Graph Neural Networks against Topology Inference Attacks](http://arxiv.org/abs/2509.05429v2)** | 2025-09-09 | <details><summary>Accte...</summary><p>Acctepted by ACM CCS'25</p></details> |
+| **[IBN: An Interpretable Bidirectional-Modeling Network for Multivariate Time Series Forecasting with Variable Missing](http://arxiv.org/abs/2509.07725v1)** | 2025-09-09 |  |
+| **[VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented Reinforcement Learning](http://arxiv.org/abs/2509.06763v2)** | 2025-09-09 |  |
+| **[DeepGraphLog for Layered Neurosymbolic AI](http://arxiv.org/abs/2509.07665v1)** | 2025-09-09 |  |
+| **[Graph-based Integrated Gradients for Explaining Graph Neural Networks](http://arxiv.org/abs/2509.07648v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the Australasian Joint Conference on Artificial Intelligence (AJCAI) 2025</p></details> |
+| **[NestGNN: A Graph Neural Network Framework Generalizing the Nested Logit Model for Travel Mode Choice](http://arxiv.org/abs/2509.07123v1)** | 2025-09-08 |  |
 | **[Asynchronous Message Passing for Addressing Oversquashing in Graph Neural Networks](http://arxiv.org/abs/2509.06777v1)** | 2025-09-08 |  |
 | **[A Composite-Loss Graph Neural Network for the Multivariate Post-Processing of Ensemble Weather Forecasts](http://arxiv.org/abs/2509.02784v2)** | 2025-09-08 | <details><summary>30 pa...</summary><p>30 pages, 16 figures, 3 tables</p></details> |
-| **[VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented Reinforcement Learning](http://arxiv.org/abs/2509.06763v1)** | 2025-09-08 |  |
 | **[Long-Range Graph Wavelet Networks](http://arxiv.org/abs/2509.06743v1)** | 2025-09-08 |  |
 | **[Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks](http://arxiv.org/abs/2410.17118v2)** | 2025-09-08 | <details><summary>We wo...</summary><p>We would like to withdraw this submission because it contains several errors that need substantial revision. We plan to prepare a corrected and improved version, which will be submitted as a new manuscript at a later stage</p></details> |
 | **[AnalysisGNN: Unified Music Analysis with Graph Neural Networks](http://arxiv.org/abs/2509.06654v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at the 17th International Symposium on Computer Music Multidisciplinary Research (CMMR) 2025</p></details> |
 | **[PAC-Bayesian Generalization Bounds for Graph Convolutional Networks on Inductive Node Classification](http://arxiv.org/abs/2509.06600v1)** | 2025-09-08 |  |
 | **[Topological Regularization for Force Prediction in Active Particle Suspension with EGNN and Persistent Homology](http://arxiv.org/abs/2509.06574v1)** | 2025-09-08 |  |
-| **[Rethinking GNN Expressive Power from a Distributed Computational Model Perspective](http://arxiv.org/abs/2410.01308v4)** | 2025-09-08 |  |
-| **[Graph Neural Networks for Resource Allocation in Interference-limited Multi-Channel Wireless Networks with QoS Constraints](http://arxiv.org/abs/2509.06395v1)** | 2025-09-08 |  |
-| **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v3)** | 2025-09-08 | <details><summary>21 pa...</summary><p>21 pages, 15 figures (including Appendix)</p></details> |
-| **[A Spatio-Temporal Graph Neural Networks Approach for Predicting Silent Data Corruption inducing Circuit-Level Faults](http://arxiv.org/abs/2509.06289v1)** | 2025-09-08 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, plan to submit to ACM TODAES</p></details> |
-| **[RecMind: LLM-Enhanced Graph Neural Networks for Personalized Consumer Recommendations](http://arxiv.org/abs/2509.06286v1)** | 2025-09-08 |  |
-| **[Data-Efficient Time-Dependent PDE Surrogates: Graph Neural Simulators vs Neural Operators](http://arxiv.org/abs/2509.06154v1)** | 2025-09-07 | <details><summary>21 pa...</summary><p>21 pages including references. Supplementary Information provided</p></details> |
-| **[Multi-Stage Graph Neural Networks for Data-Driven Prediction of Natural Convection in Enclosed Cavities](http://arxiv.org/abs/2509.06041v1)** | 2025-09-07 |  |
 
