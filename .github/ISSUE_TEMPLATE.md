@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Fluid-Structure Interaction Dynamics with Physics-Informed Neural Networks and Immersed Boundary Methods](http://arxiv.org/abs/2505.18565v4)** | 2025-09-10 |  |
+| **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
+| **[Tensor-Train Operator Inference](http://arxiv.org/abs/2509.08071v1)** | 2025-09-09 | AIAA SciTech 2026 |
 | **[Mixed-precision numerics in scientific applications: survey and perspectives](http://arxiv.org/abs/2412.19322v3)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to Journal of Supercomputing</p></details> |
 | **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Domain-Specific Structured Reasoning](http://arxiv.org/abs/2506.02019v2)** | 2025-09-08 | 19 pages, 8 figures |
 | **[A novel biomass fluidized bed gasification model coupled with machine learning and CFD simulation](http://arxiv.org/abs/2509.06056v1)** | 2025-09-07 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Towards Digital Twins for Optimal Radioembolization](http://arxiv.org/abs/2509.02607v1)** | 2025-08-30 |  |
 | **[Evaluate Neighbor Search for Curve-based Vector Field Processing](http://arxiv.org/abs/2509.00180v1)** | 2025-08-29 | 12 pages, 17 figures |
 | **[Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization](http://arxiv.org/abs/2505.07392v3)** | 2025-08-29 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 4 tables. ACM Gordon Bell Prize Finalist</p></details> |
-| **[Active Learning for Deep Learning-Based Hemodynamic Parameter Estimation](http://arxiv.org/abs/2503.03453v2)** | 2025-08-27 |  |
-| **[Deep vectorised operators for pulsatile hemodynamics estimation in coronary arteries from a steady-state prior](http://arxiv.org/abs/2410.11920v2)** | 2025-08-26 | <details><summary>Publi...</summary><p>Published in "Computer Methods and Programs in Biomedicine"</p></details> |
-| **[Impact of curved elements for flows over orography with a Discontinuous Galerkin scheme](http://arxiv.org/abs/2404.09319v4)** | 2025-08-26 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid Physics-Data Enrichments to Represent Uncertainty in Reduced Gas-Surface Chemistry Models for Hypersonic Flight](http://arxiv.org/abs/2509.08137v1)** | 2025-09-09 |  |
 | **[Parameter Robustness in Data-Driven Estimation of Dynamical Systems](http://arxiv.org/abs/2509.06534v1)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted for publication in the IEEE Conference on Decision and Control (CDC) 2025</p></details> |
 | **[Fractional differential equations: non-constant coefficients, simulation and model reduction](http://arxiv.org/abs/2509.02465v1)** | 2025-09-02 |  |
 | **[A locking free multiscale method for linear elasticity in stress-displacement formulation with high contrast coefficients](http://arxiv.org/abs/2504.18054v2)** | 2025-09-01 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Stokes-Brinkman-Darcy models for fluid-porous systems: derivation, analysis and validation](http://arxiv.org/abs/2404.16577v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Published in Applied Mathematics and Computation, 2025, DOI:/10.1016/j.amc.2025.129687</p></details> |
 | **[Power-Series Approach to Moment-Matching-Based Model Reduction of MIMO Polynomial Nonlinear Systems](http://arxiv.org/abs/2508.13595v1)** | 2025-08-19 |  |
 | **[Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](http://arxiv.org/abs/2508.10454v1)** | 2025-08-14 | 22 pages, 6 figures |
-| **[Weighted Proper Orthogonal Decomposition for High-Dimensional Optimization](http://arxiv.org/abs/2508.09084v1)** | 2025-08-12 | 26 pages, 7 figures |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rollout-LaSDI: Enhancing the long-term accuracy of Latent Space Dynamics](http://arxiv.org/abs/2509.08191v1)** | 2025-09-09 | 6 pages, 2 figures |
 | **[Synthetic Acceleration Preconditioners for Parametric Radiative Transfer Equations based on Trajectory-Aware Reduced Order Models](http://arxiv.org/abs/2509.05001v1)** | 2025-09-05 | 32 pages, 9 figures |
 | **[Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots](http://arxiv.org/abs/2509.04722v1)** | 2025-09-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, accepted to IEEE-RAS International Conference on Humanoid Robots 2025</p></details> |
 | **[Taming High-Dimensional Dynamics: Learning Optimal Projections onto Spectral Submanifolds](http://arxiv.org/abs/2504.03157v2)** | 2025-09-04 |  |
@@ -52,18 +53,13 @@ labels: documentation
 | **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v4)** | 2025-08-31 | 34 pages |
 | **[Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods](http://arxiv.org/abs/2508.19448v2)** | 2025-08-30 |  |
 | **[A Layered Control Perspective on Legged Locomotion: Embedding Reduced Order Models via Hybrid Zero Dynamics](http://arxiv.org/abs/2509.00294v1)** | 2025-08-30 |  |
-| **[Data-Driven Bifurcation Handling in Physics-Based Reduced-Order Vascular Hemodynamic Models](http://arxiv.org/abs/2508.21165v1)** | 2025-08-28 | 32 pages, 13 figures |
-| **[A Deep-Learning Enhanced Gappy Proper Orthogonal Decomposition Method for Conjugate Heat Transfer Problem](http://arxiv.org/abs/2508.20633v1)** | 2025-08-28 |  |
-| **[Self-consistent clustering analysis for homogenisation of heterogeneous plates](http://arxiv.org/abs/2508.20446v1)** | 2025-08-28 |  |
-| **[Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations](http://arxiv.org/abs/2508.19957v1)** | 2025-08-27 |  |
-| **[Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling](http://arxiv.org/abs/2504.13333v2)** | 2025-08-27 |  |
-| **[Controlling instability in the Vlasov-Poisson system through moment-based optimization](http://arxiv.org/abs/2508.18412v1)** | 2025-08-25 |  |
-| **[Generalizations of data-driven balancing: What to sample for different balancing-based reduced models](http://arxiv.org/abs/2312.12561v2)** | 2025-08-25 | 16 pages, 3 figures |
-| **[DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins](http://arxiv.org/abs/2508.17988v1)** | 2025-08-25 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted at EDTconf 2025</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Teamwork as Linear Interpersonal Dynamics](http://arxiv.org/abs/2509.08811v1)** | 2025-09-10 |  |
+| **[Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction](http://arxiv.org/abs/2509.08752v1)** | 2025-09-10 |  |
+| **[HopCast: Calibration of Autoregressive Dynamics Models](http://arxiv.org/abs/2501.16587v4)** | 2025-09-10 |  |
 | **[Multi-Topic Projected Opinion Dynamics for Resource Allocation](http://arxiv.org/abs/2509.07847v1)** | 2025-09-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted for presentation in IEEE Conference on Decision and Control (CDC), 2025</p></details> |
 | **[Filtering in Multivariate Systems with Quantized Measurements using a Gaussian Mixture-Based Indicator Approximation](http://arxiv.org/abs/2509.07837v1)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been acepted for presentation in the 64th IEEE Conference on Decision and Control. 6 pages, 8 Figures</p></details> |
 | **[State Estimation with Protecting Exogenous Inputs via Cramér-Rao Lower Bound Approach](http://arxiv.org/abs/2410.08756v2)** | 2025-09-09 |  |
@@ -76,13 +72,14 @@ labels: documentation
 | **[Neural CRNs: A Natural Implementation of Learning in Chemical Reaction Networks](http://arxiv.org/abs/2409.00034v4)** | 2025-09-08 |  |
 | **[Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model](http://arxiv.org/abs/2505.10438v3)** | 2025-09-08 | <details><summary>34 pa...</summary><p>34 pages, 28 figures Under review at Springer Nonlinear Dynamics</p></details> |
 | **[Identifiability and Maximum Likelihood Estimation for System Identification of Networks of Dynamical Systems](http://arxiv.org/abs/2506.20628v3)** | 2025-09-08 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Submitted to IEEE Transactions on Automatic Control</p></details> |
-| **[Parameter Robustness in Data-Driven Estimation of Dynamical Systems](http://arxiv.org/abs/2509.06534v1)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted for publication in the IEEE Conference on Decision and Control (CDC) 2025</p></details> |
-| **[Gaussian behaviors: representations and data-driven control](http://arxiv.org/abs/2504.15838v2)** | 2025-09-08 | <details><summary>Exten...</summary><p>Extended version of the paper accepted to the 64th IEEE Conference on Decision and Control</p></details> |
-| **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v3)** | 2025-09-08 | <details><summary>21 pa...</summary><p>21 pages, 15 figures (including Appendix)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Belief-State Policy Learning for Quantum Network Routing Under Decoherence and Time-Varying Conditions](http://arxiv.org/abs/2509.08654v1)** | 2025-09-10 |  |
+| **[Second-Order Tensorial Partial Differential Equations on Graphs](http://arxiv.org/abs/2509.02015v2)** | 2025-09-10 | 10 pages, 1 figure |
+| **[Facet: highly efficient E(3)-equivariant networks for interatomic potentials](http://arxiv.org/abs/2509.08418v1)** | 2025-09-10 |  |
+| **[Adversarial Robustness of Link Sign Prediction in Signed Graphs](http://arxiv.org/abs/2401.10590v3)** | 2025-09-09 |  |
 | **[MSRFormer: Road Network Representation Learning using Multi-scale Feature Fusion of Heterogeneous Spatial Interactions](http://arxiv.org/abs/2509.05685v2)** | 2025-09-09 |  |
 | **[A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges](http://arxiv.org/abs/2509.07887v1)** | 2025-09-09 | 16 pages, 1 figure |
 | **[Safeguarding Graph Neural Networks against Topology Inference Attacks](http://arxiv.org/abs/2509.05429v2)** | 2025-09-09 | <details><summary>Accte...</summary><p>Acctepted by ACM CCS'25</p></details> |
@@ -94,8 +91,4 @@ labels: documentation
 | **[Asynchronous Message Passing for Addressing Oversquashing in Graph Neural Networks](http://arxiv.org/abs/2509.06777v1)** | 2025-09-08 |  |
 | **[A Composite-Loss Graph Neural Network for the Multivariate Post-Processing of Ensemble Weather Forecasts](http://arxiv.org/abs/2509.02784v2)** | 2025-09-08 | <details><summary>30 pa...</summary><p>30 pages, 16 figures, 3 tables</p></details> |
 | **[Long-Range Graph Wavelet Networks](http://arxiv.org/abs/2509.06743v1)** | 2025-09-08 |  |
-| **[Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks](http://arxiv.org/abs/2410.17118v2)** | 2025-09-08 | <details><summary>We wo...</summary><p>We would like to withdraw this submission because it contains several errors that need substantial revision. We plan to prepare a corrected and improved version, which will be submitted as a new manuscript at a later stage</p></details> |
-| **[AnalysisGNN: Unified Music Analysis with Graph Neural Networks](http://arxiv.org/abs/2509.06654v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at the 17th International Symposium on Computer Music Multidisciplinary Research (CMMR) 2025</p></details> |
-| **[PAC-Bayesian Generalization Bounds for Graph Convolutional Networks on Inductive Node Classification](http://arxiv.org/abs/2509.06600v1)** | 2025-09-08 |  |
-| **[Topological Regularization for Force Prediction in Active Particle Suspension with EGNN and Persistent Homology](http://arxiv.org/abs/2509.06574v1)** | 2025-09-08 |  |
 
