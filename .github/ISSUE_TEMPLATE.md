@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 19, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quasi Steady-State Frequency](http://arxiv.org/abs/2505.21461v3)** | 2025-09-17 |  |
 | **[Performance measurements of modern Fortran MPI applications with Score-P](http://arxiv.org/abs/2508.16592v2)** | 2025-09-17 |  |
 | **[A reduced-order derivative-informed neural operator for subsurface fluid-flow](http://arxiv.org/abs/2509.13620v1)** | 2025-09-17 |  |
 | **[Testing and benchmarking emerging supercomputers via the MFC flow solver](http://arxiv.org/abs/2509.13575v1)** | 2025-09-16 | 9 pages, 3 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning Fluid-Structure Interaction Dynamics with Physics-Informed Neural Networks and Immersed Boundary Methods](http://arxiv.org/abs/2505.18565v4)** | 2025-09-10 |  |
 | **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
 | **[Tensor-Train Operator Inference](http://arxiv.org/abs/2509.08071v1)** | 2025-09-09 | AIAA SciTech 2026 |
-| **[Mixed-precision numerics in scientific applications: survey and perspectives](http://arxiv.org/abs/2412.19322v3)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to Journal of Supercomputing</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Object Tracking Incorporating Transfer Learning into Unscented and Cubature Kalman Filters](http://arxiv.org/abs/2408.07157v2)** | 2025-09-18 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 2 tables</p></details> |
+| **[FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Integration](http://arxiv.org/abs/2509.14775v1)** | 2025-09-18 |  |
+| **[Learning Conservative Neural Control Barrier Functions from Offline Data](http://arxiv.org/abs/2505.00908v2)** | 2025-09-18 |  |
+| **[Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2509.09135v2)** | 2025-09-17 | 19 pages, 10 figures |
 | **[Data Denoising and Derivative Estimation for Data-Driven Modeling of Nonlinear Dynamical Systems](http://arxiv.org/abs/2509.14219v1)** | 2025-09-17 |  |
 | **[Gremban Expansion for Signed Networks: Algebraic and Combinatorial Foundations for Community-Faction Detection](http://arxiv.org/abs/2509.14193v1)** | 2025-09-17 |  |
 | **[Enabling Local Neural Operators to perform Equation-Free System-Level Analysis](http://arxiv.org/abs/2505.02308v2)** | 2025-09-17 | 35 pages, 13 figures |
@@ -75,27 +79,23 @@ labels: documentation
 | **[Ungar -- A C++ Framework for Real-Time Optimal Control Using Template Metaprogramming](http://arxiv.org/abs/2309.06783v3)** | 2025-09-16 | <details><summary>2023 ...</summary><p>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 7 pages, 2 figures. Library available at https://github.com/fdevinc/ungar. Presentation available at https://www.youtube.com/watch?v=iKQ6felf45k</p></details> |
 | **[Deep Koopman Learning using Noisy Data](http://arxiv.org/abs/2405.16649v6)** | 2025-09-16 |  |
 | **[Spatiotemporal graph neural process for reconstruction, extrapolation, and classification of cardiac trajectories](http://arxiv.org/abs/2509.12953v1)** | 2025-09-16 |  |
-| **[TimeCluster with PCA is Equivalent to Subspace Identification of Linear Dynamical Systems](http://arxiv.org/abs/2509.12895v1)** | 2025-09-16 | 15 pages, 9 figures |
-| **[Executable Ontologies: Synthesizing Event Semantics with Dataflow Architecture](http://arxiv.org/abs/2509.09775v2)** | 2025-09-16 | <details><summary>22 pa...</summary><p>22 pages, 6 figures. Corrected captions on Figure 4</p></details> |
-| **[Hybrid State Estimation of Uncertain Nonlinear Dynamics Using Neural Processes](http://arxiv.org/abs/2509.12522v1)** | 2025-09-15 | <details><summary>32 pa...</summary><p>32 pages (single column) - 6 figures</p></details> |
-| **[Teamwork as Linear Interpersonal Dynamics](http://arxiv.org/abs/2509.08811v2)** | 2025-09-15 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering](http://arxiv.org/abs/2506.09920v2)** | 2025-09-18 |  |
+| **[Attention Beyond Neighborhoods: Reviving Transformer for Graph Clustering](http://arxiv.org/abs/2509.15024v1)** | 2025-09-18 | 9 pages, 5 figures |
+| **[Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter](http://arxiv.org/abs/2311.04190v2)** | 2025-09-18 | <details><summary>23 pa...</summary><p>23 pages, 17 figures, 3 tables, and published version</p></details> |
+| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
+| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](http://arxiv.org/abs/2509.14863v1)** | 2025-09-18 |  |
+| **[Let's Grow an Unbiased Community: Guiding the Fairness of Graphs via New Links](http://arxiv.org/abs/2508.15499v2)** | 2025-09-18 |  |
+| **[Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification](http://arxiv.org/abs/2408.01964v2)** | 2025-09-18 |  |
+| **[Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion](http://arxiv.org/abs/2408.05160v3)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Data Mining 2025 (ICDM2025)</p></details> |
+| **[General Geospatial Inference with a Population Dynamics Foundation Model](http://arxiv.org/abs/2411.07207v5)** | 2025-09-17 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, preprint; v5: updated authors</p></details> |
+| **[Local-Canonicalization Equivariant Graph Neural Networks for Sample-Efficient and Generalizable Swarm Robot Control](http://arxiv.org/abs/2509.14431v1)** | 2025-09-17 | 8 pages, 8 figures |
+| **[How Bad Is Forming Your Own Multidimensional Opinion?](http://arxiv.org/abs/2509.14411v1)** | 2025-09-17 | <details><summary>Appea...</summary><p>Appeared in 26th ACM Conference on Economics and Computation (EC'25)</p></details> |
+| **[Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis](http://arxiv.org/abs/2503.09808v2)** | 2025-09-17 | 11 pages, 3 figures |
 | **[Graph Neural Networks for Next-Generation-IoT: Recent Advances and Open Challenges](http://arxiv.org/abs/2412.20634v3)** | 2025-09-17 | <details><summary>38 pa...</summary><p>38 pages, 18 figures, and 6 tables. Accepted by the IEEE COMST</p></details> |
 | **[An End-to-End Differentiable, Graph Neural Network-Embedded Pore Network Model for Permeability Prediction](http://arxiv.org/abs/2509.13841v1)** | 2025-09-17 | <details><summary>This ...</summary><p>This preprint is also available at ESS Open Archive: https://essopenarchive.org/users/960205/articles/1329010</p></details> |
 | **[GraphTorque: Torque-Driven Rewiring Graph Neural Network](http://arxiv.org/abs/2507.21422v2)** | 2025-09-17 |  |
-| **[State Space Models over Directed Graphs](http://arxiv.org/abs/2509.13735v1)** | 2025-09-17 | <details><summary>curre...</summary><p>currently undergoing review by IEEE Transactions on Big Data</p></details> |
-| **[Multimodal Hate Detection Using Dual-Stream Graph Neural Networks](http://arxiv.org/abs/2509.13515v1)** | 2025-09-16 |  |
-| **[JANUS: A Dual-Constraint Generative Framework for Stealthy Node Injection Attacks](http://arxiv.org/abs/2509.13266v1)** | 2025-09-16 |  |
-| **[Learning from Heterophilic Graphs: A Spectral Theory Perspective on the Impact of Self-Loops and Parallel Edges](http://arxiv.org/abs/2509.13139v1)** | 2025-09-16 |  |
-| **[Curriculum Learning for Mesh-based simulations](http://arxiv.org/abs/2509.13138v1)** | 2025-09-16 |  |
-| **[Second-Order Tensorial Partial Differential Equations on Graphs](http://arxiv.org/abs/2509.02015v3)** | 2025-09-16 | 9 pages, 1 figure |
-| **[Spatiotemporal graph neural process for reconstruction, extrapolation, and classification of cardiac trajectories](http://arxiv.org/abs/2509.12953v1)** | 2025-09-16 |  |
-| **[Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN](http://arxiv.org/abs/2412.17629v4)** | 2025-09-16 | 9 pages, 4 figures |
-| **[Explicit Multimodal Graph Modeling for Human-Object Interaction Detection](http://arxiv.org/abs/2509.12554v1)** | 2025-09-16 |  |
-| **[Graph Homophily Booster: Rethinking the Role of Discrete Features on Heterophilic Graphs](http://arxiv.org/abs/2509.12530v1)** | 2025-09-16 | 14 pages |
-| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v3)** | 2025-09-15 | <details><summary>To ap...</summary><p>To appear in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
-| **[3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data](http://arxiv.org/abs/2509.12143v1)** | 2025-09-15 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 7 tables</p></details> |
 
