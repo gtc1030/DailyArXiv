@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization](http://arxiv.org/abs/2510.22839v1)** | 2025-10-26 | 13 pages, 8 figures |
+| **[Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization](http://arxiv.org/abs/2510.22839v2)** | 2025-10-28 | 13 pages, 8 figures |
+| **[EddyFormer: Accelerated Neural Simulations of Three-Dimensional Turbulence at Scale](http://arxiv.org/abs/2510.24173v1)** | 2025-10-28 | NeurIPS 2025 |
 | **[VENI, VINDy, VICI: a generative reduced-order modeling framework with uncertainty quantification](http://arxiv.org/abs/2405.20905v2)** | 2025-10-24 |  |
 | **[CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs](http://arxiv.org/abs/2505.12944v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted for publication at the 39th Conference on Neural Information Processing Systems (NeurIPS) 2025, San Diego, California, USA</p></details> |
 | **[The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method](http://arxiv.org/abs/2507.16810v2)** | 2025-10-22 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Iterative solvers for partial differential equations with dissipative structure: Operator preconditioning and optimal control](http://arxiv.org/abs/2510.16399v1)** | 2025-10-18 | 26 pages, 8 figures |
 | **[AB-UPT for Automotive and Aerospace Applications](http://arxiv.org/abs/2510.15808v1)** | 2025-10-17 |  |
 | **[MNO: Multiscale Neural Operator for Computational Fluid Dynamics with 3D Point Cloud Data](http://arxiv.org/abs/2510.16071v1)** | 2025-10-17 |  |
-| **[Cross-Model Verification of Wall-Bounded Flows using Finite-JAX](http://arxiv.org/abs/2509.25569v2)** | 2025-10-17 | 9 pages |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamical Modeling of Temperature and Smoke Evolution in a Thermal-Runaway Event of a Large-Format Lithium-ion Battery in a Mine Tunnel](http://arxiv.org/abs/2510.23910v1)** | 2025-10-27 |  |
 | **[MultiLevel Variational MultiScale (ML-VMS) framework for large-scale simulation](http://arxiv.org/abs/2510.23004v1)** | 2025-10-27 |  |
 | **[Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers](http://arxiv.org/abs/2505.14595v2)** | 2025-10-25 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Preconditioning and Reduced-Order Modeling of Navier-Stokes Equations in Complex Porous Microstructures](http://arxiv.org/abs/2510.22077v1)** | 2025-10-24 |  |
@@ -59,21 +60,36 @@ labels: documentation
 | **[Nonlinear energy-preserving model reduction with lifting transformations that quadratize the energy](http://arxiv.org/abs/2503.02273v2)** | 2025-10-18 |  |
 | **[AC Dynamics-aware Trajectory Optimization with Binary Enforcement for Adaptive UFLS Design](http://arxiv.org/abs/2510.16297v1)** | 2025-10-18 |  |
 | **[Revealing Low-Dimensional Structure in 2D Richtmyer-Meshkov Instabilities via Parametric Reduced-Order Modeling](http://arxiv.org/abs/2510.16197v1)** | 2025-10-17 |  |
-| **[Machine Learning-Based Ultrasonic Weld Characterization Using Hierarchical Wave Modeling and Diffusion-Driven Distribution Alignment](http://arxiv.org/abs/2510.13023v2)** | 2025-10-16 | <details><summary>26 pa...</summary><p>26 pages, 6 page appendix</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contributions to Semialgebraic-Set-Based Stability Verification of Dynamical Systems with Neural-Network-Based Controllers](http://arxiv.org/abs/2510.24391v1)** | 2025-10-28 | <details><summary>Submi...</summary><p>Submitted to the IEEE for possible publication, 16 pages, 6 figures</p></details> |
+| **[Unlocking Out-of-Distribution Generalization in Dynamics through Physics-Guided Augmentation](http://arxiv.org/abs/2510.24216v1)** | 2025-10-28 |  |
+| **[Two-Stage Learning of Stabilizing Neural Controllers via Zubov Sampling and Iterative Domain Expansion](http://arxiv.org/abs/2506.01356v2)** | 2025-10-28 | NeurIPS 2025 |
+| **[Causal Convolutional Neural Networks as Finite Impulse Response Filters](http://arxiv.org/abs/2510.24125v1)** | 2025-10-28 | <details><summary>14 pa...</summary><p>14 pages, 19 figures, Under review</p></details> |
+| **[MathBode: Understanding LLM Reasoning with Dynamical Systems](http://arxiv.org/abs/2509.23143v3)** | 2025-10-28 |  |
+| **[A Volumetric Privacy Measure for Dynamical Systems With Bounded Disturbance](http://arxiv.org/abs/2501.02893v5)** | 2025-10-28 |  |
+| **[Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins](http://arxiv.org/abs/2510.23882v1)** | 2025-10-27 |  |
 | **[Universal Sequence Preconditioning](http://arxiv.org/abs/2502.06545v3)** | 2025-10-27 | <details><summary>35 pa...</summary><p>35 pages, 3 tables, 5 figures</p></details> |
 | **[Predicting symbolic ODEs from multiple trajectories](http://arxiv.org/abs/2510.23295v1)** | 2025-10-27 | <details><summary>Publi...</summary><p>Published at: 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Machine Learning and the Physical Sciences</p></details> |
 | **[Permutation Equivariant Neural Controlled Differential Equations for Dynamic Graph Representation Learning](http://arxiv.org/abs/2506.20324v2)** | 2025-10-27 |  |
 | **[High-order Computation of Floquet Multipliers and Subspaces using Multistep Methods](http://arxiv.org/abs/2510.23082v1)** | 2025-10-27 |  |
 | **[Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation](http://arxiv.org/abs/2510.23078v1)** | 2025-10-27 | <details><summary>Submi...</summary><p>Submitted to IEEE ICASSP 2026</p></details> |
 | **[Perturbation Function Iteration Method: A New Framework for Solving Periodic Solutions of Non-linear and Non-smooth Systems](http://arxiv.org/abs/2510.23071v1)** | 2025-10-27 |  |
+| **[Scientific Applications Leveraging Randomized Linear Algebra](http://arxiv.org/abs/2506.16457v2)** | 2025-10-27 |  |
+| **[Koopman Eigenfunction-Based Identification and Optimal Nonlinear Control of Turbojet Engine](http://arxiv.org/abs/2505.10438v5)** | 2025-10-26 | <details><summary>34 pa...</summary><p>34 pages, 29 figures Under review at Springer Nonlinear Dynamics</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization](http://arxiv.org/abs/2510.22839v2)** | 2025-10-28 | 13 pages, 8 figures |
+| **[MAGNET: A Multi-Graph Attentional Network for Code Clone Detection](http://arxiv.org/abs/2510.24241v1)** | 2025-10-28 |  |
+| **[The Logical Expressiveness of Temporal GNNs via Two-Dimensional Product Logics](http://arxiv.org/abs/2505.11930v2)** | 2025-10-28 |  |
+| **[Rademacher Meets Colors: More Expressivity, but at What Cost ?](http://arxiv.org/abs/2510.10101v3)** | 2025-10-28 |  |
+| **[HyperGraphX: Graph Transductive Learning with Hyperdimensional Computing and Message Passing](http://arxiv.org/abs/2510.23980v1)** | 2025-10-28 |  |
+| **[FALCON: An ML Framework for Fully Automated Layout-Constrained Analog Circuit Design](http://arxiv.org/abs/2505.21923v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Practical Bayes-Optimal Membership Inference Attacks](http://arxiv.org/abs/2505.24089v2)** | 2025-10-27 | <details><summary>In Ne...</summary><p>In NeurIPS 2025, 10 pages plus 15 pages of appendices</p></details> |
 | **[Enhancing Graph Neural Networks: A Mutual Learning Approach](http://arxiv.org/abs/2510.19223v2)** | 2025-10-27 |  |
 | **[When No Paths Lead to Rome: Benchmarking Systematic Neural Relational Reasoning](http://arxiv.org/abs/2510.23532v1)** | 2025-10-27 | <details><summary>accep...</summary><p>accepted at NeurIPS 2025 D&B track</p></details> |
 | **[iPac: Incorporating Intra-image Patch Context into Graph Neural Networks for Medical Image Classification](http://arxiv.org/abs/2510.23504v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of ICONIP 2025</p></details> |
@@ -82,11 +98,4 @@ labels: documentation
 | **[HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](http://arxiv.org/abs/2505.15405v2)** | 2025-10-27 |  |
 | **[Cross-Lingual Sponsored Search via Dual-Encoder and Graph Neural Networks for Context-Aware Query Translation in Advertising Platforms](http://arxiv.org/abs/2510.22957v1)** | 2025-10-27 |  |
 | **[A Hybrid GNN-IZR Framework for Fast and Empirically Robust AC Power Flow Analysis in Radial Distribution Systems](http://arxiv.org/abs/2510.04264v2)** | 2025-10-27 |  |
-| **[GTR-Mamba: Geometry-to-Tangent Routing for Hyperbolic POI Recommendation](http://arxiv.org/abs/2510.22942v1)** | 2025-10-27 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables, submitted to ICDE 2026</p></details> |
-| **[Diffuse to Detect: A Generalizable Framework for Anomaly Detection with Diffusion Models Applications to UAVs and Beyond](http://arxiv.org/abs/2510.22928v1)** | 2025-10-27 |  |
-| **[FastJAM: a Fast Joint Alignment Model for Images](http://arxiv.org/abs/2510.22842v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. Pages 1-10 are the Main Paper. Pages 23-31 are Supplemental Material. FastJAM website - https://bgu-cs-vil.github.io/FastJAM/</p></details> |
-| **[Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization](http://arxiv.org/abs/2510.22839v1)** | 2025-10-26 | 13 pages, 8 figures |
-| **[Policies over Poses: Reinforcement Learning based Distributed Pose-Graph Optimization for Multi-Robot SLAM](http://arxiv.org/abs/2510.22740v1)** | 2025-10-26 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS) 2025</p></details> |
-| **[Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering](http://arxiv.org/abs/2506.09920v3)** | 2025-10-26 |  |
-| **[If You Want to Be Robust, Be Wary of Initialization](http://arxiv.org/abs/2510.22652v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2024</p></details> |
 
