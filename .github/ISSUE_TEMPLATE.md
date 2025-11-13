@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -13,8 +13,8 @@ labels: documentation
 | **[FDBB: Fluid Dynamics Building Blocks](https://arxiv.org/pdf/1809.09851v1)** | 2018-09-27 |  |
 | **[Inpainting Computational Fluid Dynamics with Deep Learning](https://arxiv.org/pdf/2402.17185v1)** | 2024-02-28 | 20 pages, 9 figures |
 | **[SPNets: Differentiable Fluid Dynamics for Deep Neural Networks](https://arxiv.org/pdf/1806.06094v2)** | 2018-09-27 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2018</p></details> |
-| **[Motion Planning for Fluid Manipulation using Simplified Dynamics](https://arxiv.org/pdf/1603.02347v1)** | 2016-03-09 |  |
 | **[HelmFluid: Learning Helmholtz Dynamics for Interpretable Fluid Prediction](https://arxiv.org/pdf/2310.10565v3)** | 2024-06-10 |  |
+| **[Motion Planning for Fluid Manipulation using Simplified Dynamics](https://arxiv.org/pdf/1603.02347v1)** | 2016-03-09 |  |
 | **[DeepLag: Discovering Deep Lagrangian Dynamics for Intuitive Fluid Prediction](https://arxiv.org/pdf/2402.02425v5)** | 2024-11-05 |  |
 | **[Prospects of federated machine learning in fluid dynamics](https://arxiv.org/pdf/2208.07017v1)** | 2024-06-12 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2207.12245</p></details> |
 | **[Enhancing Computational Fluid Dynamics with Machine Learning](https://arxiv.org/pdf/2110.02085v2)** | 2022-07-04 | 15 pages, 4 figures |
@@ -88,8 +88,8 @@ labels: documentation
 | **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
 | **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
 | **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
-| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
 | **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
+| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
 | **[Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks](https://arxiv.org/pdf/2312.01342v1)** | 2024-04-19 | <details><summary>This ...</summary><p>This paper is submitted and will be published on Big Data Conference 2023, Data-driven Science for Graphs: Algorithms, Architectures, and Application workshop</p></details> |
 | **[Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264v1)** | 2019-09-27 | 8 pages |
 | **[Inferring the Graph Structure of Images for Graph Neural Networks](https://arxiv.org/pdf/2509.04677v1)** | 2025-09-08 |  |
