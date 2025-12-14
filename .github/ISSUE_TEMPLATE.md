@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography](https://arxiv.org/abs/2512.10765v1)** | 2025-12-11 | 19 pages, 9 figures |
+| **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
 | **[SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664v1)** | 2025-12-10 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/synthpix</p></details> |
 | **[Rates and architectures for learning geometrically non-trivial operators](https://arxiv.org/abs/2512.09376v1)** | 2025-12-10 | 26 pages, 5 figures |
 | **[Graph Deep Learning for Intracranial Aneurysm Blood Flow Simulation and Risk Assessment](https://arxiv.org/abs/2512.09013v1)** | 2025-12-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization](https://arxiv.org/abs/2505.07392v4)** | 2025-11-28 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 4 tables. SC25 ACM Gordon Bell Prize Finalist</p></details> |
 | **[Resolving Sharp Gradients of Unstable Singularities to Machine Precision via Neural Networks](https://arxiv.org/abs/2511.22819v1)** | 2025-11-28 | 27 pages, 12 figures |
 | **[Data efficient surrogate modeling for engineering design: Ensemble-free batch mode deep active learning for regression](https://arxiv.org/abs/2211.10360v2)** | 2025-11-28 | 6 pages, 4 figures |
-| **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v3)** | 2025-11-26 |  |
-| **[CompARE: A Computational framework for Airborne Respiratory disease Evaluation integrating flow physics and human behavior](https://arxiv.org/abs/2511.21782v1)** | 2025-11-26 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v1)** | 2025-12-11 |  |
+| **[Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels](https://arxiv.org/abs/2512.10256v1)** | 2025-12-11 |  |
 | **[Next-Generation Reservoir Computing for Dynamical Inference](https://arxiv.org/abs/2509.11338v2)** | 2025-12-10 | <details><summary>12 pa...</summary><p>12 pages, 12 figures; revision</p></details> |
 | **[Lazy Diffusion: Mitigating spectral collapse in generative diffusion-based stable autoregressive emulation of turbulent flows](https://arxiv.org/abs/2512.09572v1)** | 2025-12-10 |  |
 | **[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309v4)** | 2025-12-10 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Signal Processing (16 pages, 6 figures)</p></details> |
@@ -76,26 +79,23 @@ labels: documentation
 | **[An Information Theory of Finite Abstractions and their Fundamental Scalability Limits](https://arxiv.org/abs/2512.03977v3)** | 2025-12-08 |  |
 | **[Disturbance Compensation for Safe Kinematic Control of Robotic Systems with Closed Architecture](https://arxiv.org/abs/2512.05292v2)** | 2025-12-08 | <details><summary>Exten...</summary><p>Extended version of the paper submitted for publication. This document contains detailed mathematical derivations and additional experimental results omitted from the submission due to page constraints</p></details> |
 | **[Neuro-Vesicles: Neuromodulation Should Be a Dynamical System, Not a Tensor Decoration](https://arxiv.org/abs/2512.06966v1)** | 2025-12-07 | <details><summary>17 pa...</summary><p>17 pages, 1 overview figure, 3 tables; Early-stage theoretical design of the Neuro-Vesicle framework, posted as a record of original contribution</p></details> |
-| **[From Observations to Parameters: Detecting Changepoint in Nonlinear Dynamics with Simulation-based Inference](https://arxiv.org/abs/2510.17933v2)** | 2025-12-07 | 15 pages |
-| **[Formalisation of Security for Federated Learning with DP and Attacker Advantage in IIIf for Satellite Swarms -- Extended Version](https://arxiv.org/abs/2512.06467v1)** | 2025-12-06 |  |
-| **[Calibrating Geophysical Predictions under Constrained Probabilistic Distributions](https://arxiv.org/abs/2512.03081v2)** | 2025-12-06 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Graph Neural Network Training, Defense, Hypergraph Partitioning and Spectral Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v8)** | 2025-12-10 |  |
-| **[M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks](https://arxiv.org/abs/2512.09797v1)** | 2025-12-10 |  |
-| **[A Network Science Approach to Granular Time Series Segmentation](https://arxiv.org/abs/2505.17640v2)** | 2025-12-10 | 20 pages, 11 figures |
-| **[Graph-Based Bayesian Optimization for Quantum Circuit Architecture Search with Uncertainty Calibrated Surrogates](https://arxiv.org/abs/2512.09586v1)** | 2025-12-10 | 17 pages, 13 figures |
-| **[Transport Novelty Distance: A Distributional Metric for Evaluating Material Generative Models](https://arxiv.org/abs/2512.09514v1)** | 2025-12-10 |  |
-| **[Advancing Text Classification with Large Language Models and Neural Attention Mechanisms](https://arxiv.org/abs/2512.09444v1)** | 2025-12-10 |  |
-| **[BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks](https://arxiv.org/abs/2512.09385v1)** | 2025-12-10 | <details><summary>This ...</summary><p>This paper is accepted to AAAI 2026</p></details> |
-| **[Branching Strategies Based on Subgraph GNNs: A Study on Theoretical Promise versus Practical Reality](https://arxiv.org/abs/2512.09355v1)** | 2025-12-10 |  |
-| **[Understanding the Failure Modes of Transformers through the Lens of Graph Neural Networks](https://arxiv.org/abs/2512.09182v1)** | 2025-12-09 |  |
-| **[AI-Driven Expansion and Application of the Alexandria Database](https://arxiv.org/abs/2512.09169v1)** | 2025-12-09 |  |
-| **[Graph Deep Learning for Intracranial Aneurysm Blood Flow Simulation and Risk Assessment](https://arxiv.org/abs/2512.09013v1)** | 2025-12-09 |  |
-| **[Delay-Oriented Distributed Scheduling with TransGNN](https://arxiv.org/abs/2512.08799v1)** | 2025-12-09 | 10 pages, 3 figures |
-| **[Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning](https://arxiv.org/abs/2512.08763v1)** | 2025-12-09 | Accepted by KDD 2026 |
-| **[CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball](https://arxiv.org/abs/2512.01478v2)** | 2025-12-09 |  |
-| **[A Hybrid Model for Stock Market Forecasting: Integrating News Sentiment and Time Series Data with Graph Neural Networks](https://arxiv.org/abs/2512.08567v1)** | 2025-12-09 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Published in the Proceedings of the 5th International Conference on Artificial Intelligence Research (ICAIR 2025). Published version available at: https://papers.academic-conferences.org/index.php/icair/article/view/4294</p></details> |
+| **[LGAN: An Efficient High-Order Graph Neural Network via the Line Graph Aggregation](https://arxiv.org/abs/2512.10735v1)** | 2025-12-11 |  |
+| **[Formula size game and model checking for modal substitution calculus](https://arxiv.org/abs/2505.07966v2)** | 2025-12-11 |  |
+| **[THeGAU: Type-Aware Heterogeneous Graph Autoencoder and Augmentation](https://arxiv.org/abs/2512.10589v1)** | 2025-12-11 |  |
+| **[Mr. Virgil: Learning Multi-robot Visual-range Relative Localization](https://arxiv.org/abs/2512.10540v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v1)** | 2025-12-11 |  |
+| **[DDFI: Diverse and Distribution-aware Missing Feature Imputation via Two-step Reconstruction](https://arxiv.org/abs/2512.06356v2)** | 2025-12-11 |  |
+| **[Enhanced Spatial Clustering of Single-Molecule Localizations with Graph Neural Networks](https://arxiv.org/abs/2412.00173v2)** | 2025-12-11 | <details><summary>47 pa...</summary><p>47 pages, 5 main figures, 3 table, 3 supplementary figures, 9 supplementary tables. This is the author's version of the article published in Nature Communications under CC BY 4.0. The final published version is available at https://doi.org/10.1038/s41467-025-65557-7</p></details> |
+| **[Better Prevent than Tackle: Valuing Defense in Soccer Based on Graph Neural Networks](https://arxiv.org/abs/2512.10355v1)** | 2025-12-11 |  |
+| **[A Kernel-based Resource-efficient Neural Surrogate for Multi-fidelity Prediction of Aerodynamic Field](https://arxiv.org/abs/2512.10287v1)** | 2025-12-11 | 24 pages, 15 figures |
+| **[Graph Neural Network Based Adaptive Threat Detection for Cloud Identity and Access Management Logs](https://arxiv.org/abs/2512.10280v1)** | 2025-12-11 |  |
+| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://arxiv.org/abs/2502.01113v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)](https://arxiv.org/abs/2309.15641v6)** | 2025-12-11 |  |
+| **[Magnitude-Modulated Equivariant Adapter for Parameter-Efficient Fine-Tuning of Equivariant Graph Neural Networks](https://arxiv.org/abs/2511.06696v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 (Poster)</p></details> |
+| **[Galaxy Phase-Space and Field-Level Cosmology: The Strength of Semi-Analytic Models](https://arxiv.org/abs/2512.10222v1)** | 2025-12-11 | 23 pages, 5 figures |
+| **[Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups](https://arxiv.org/abs/2512.10105v1)** | 2025-12-10 |  |
 
