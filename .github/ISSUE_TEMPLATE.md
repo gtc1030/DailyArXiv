@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v1)** | 2025-12-18 |  |
 | **[Particle Image Velocimetry Refinement via Consensus ADMM](https://arxiv.org/abs/2512.11695v1)** | 2025-12-12 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/flowgym</p></details> |
+| **[Machine Learning Framework for Thrombosis Risk Prediction in Rotary Blood Pumps](https://arxiv.org/abs/2512.15761v1)** | 2025-12-12 |  |
 | **[FloraForge: LLM-Assisted Procedural Generation of Editable and Analysis-Ready 3D Plant Geometric Models For Agricultural Applications](https://arxiv.org/abs/2512.11925v1)** | 2025-12-11 |  |
 | **[Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography](https://arxiv.org/abs/2512.10765v1)** | 2025-12-11 | 19 pages, 9 figures |
 | **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Learning Fluid-Structure Interaction with Physics-Informed Machine Learning and Immersed Boundary Methods](https://arxiv.org/abs/2505.18565v5)** | 2025-12-03 |  |
 | **[MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](https://arxiv.org/abs/2512.01738v1)** | 2025-12-01 |  |
 | **[Rethinking Intracranial Aneurysm Vessel Segmentation: A Perspective from Computational Fluid Dynamics Applications](https://arxiv.org/abs/2512.01319v1)** | 2025-12-01 | 18 pages, 5 figures |
-| **[How do trout regulate patterns of muscle contraction to optimize propulsive efficiency during steady swimming](https://arxiv.org/abs/2512.01218v1)** | 2025-12-01 |  |
-| **[Multi-fidelity Bayesian Optimization Framework for CFD-Based Non-Premixed Burner Design](https://arxiv.org/abs/2511.23140v1)** | 2025-11-28 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Higher-Order LaSDI: Reduced Order Modeling with Multiple Time Derivatives](https://arxiv.org/abs/2512.15997v1)** | 2025-12-17 | 38 pages, 14 figures |
 | **[Nonparametric Stochastic Subspaces via the Bootstrap for Characterizing Model Error](https://arxiv.org/abs/2512.15624v1)** | 2025-12-17 |  |
 | **[Bayesian Updating of constitutive parameters under hybrid uncertainties with a novel surrogate model applied to biofilms](https://arxiv.org/abs/2512.15145v1)** | 2025-12-17 |  |
 | **[Reduced Order Modeling of Energetic Materials Using Physics-Aware Recurrent Convolutional Neural Networks in a Latent Space (LatentPARC)](https://arxiv.org/abs/2509.12401v2)** | 2025-12-15 |  |
@@ -59,43 +60,42 @@ labels: documentation
 | **[Attention-Enhanced Convolutional Autoencoder and Structured Delay Embeddings for Weather Prediction](https://arxiv.org/abs/2511.12682v1)** | 2025-11-16 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, Preprint</p></details> |
 | **[Uncertainty Quantification for Reduced-Order Surrogate Models Applied to Cloud Microphysics](https://arxiv.org/abs/2511.04534v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS). 12 pages, 3 figures, 2 tables. LLNL-CONF-2010541</p></details> |
 | **[Learning Stochastic Multiscale Models](https://arxiv.org/abs/2506.22655v2)** | 2025-11-07 |  |
-| **[Block-structured Operator Inference for coupled multiphysics model reduction](https://arxiv.org/abs/2511.05389v1)** | 2025-11-07 | 28 pages, 19 figures |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thermodynamics a la Souriau on Kähler Non Compact Symmetric Spaces for Cartan Neural Networks](https://arxiv.org/abs/2512.16772v1)** | 2025-12-18 | 108 pages, 8 figures |
+| **[Pattern recognition in complex systems via vector-field representations of spatio-temporal data](https://arxiv.org/abs/2512.16763v1)** | 2025-12-18 | 24 pages, 10 figures |
+| **[Gated KalmaNet: A Fading Memory Layer Through Test-Time Ridge Regression](https://arxiv.org/abs/2511.21016v2)** | 2025-12-18 | 30 pages, 10 figures |
+| **[The Universe Learning Itself: On the Evolution of Dynamics from the Big Bang to Machine Intelligence](https://arxiv.org/abs/2512.16515v1)** | 2025-12-18 | 38 pages, 3 figures |
+| **[Can Transformers overcome the lack of data in the simulation of history-dependent flows?](https://arxiv.org/abs/2512.16305v1)** | 2025-12-18 |  |
+| **[Optimizing the Network Topology of a Linear Reservoir Computer](https://arxiv.org/abs/2509.23391v2)** | 2025-12-18 |  |
+| **[Information theory and discriminative sampling for model discovery](https://arxiv.org/abs/2512.16000v1)** | 2025-12-17 |  |
+| **[Machine Learning and Control: Foundations, Advances, and Perspectives](https://arxiv.org/abs/2510.03303v2)** | 2025-12-17 |  |
+| **[Scientific Machine Learning of Chaotic Systems Discovers Governing Equations for Neural Populations](https://arxiv.org/abs/2507.03631v3)** | 2025-12-17 | 46 pages, 9 figures |
 | **[Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance](https://arxiv.org/abs/2512.02397v3)** | 2025-12-17 |  |
 | **[Non-parametric Causal Inference in Dynamic Thresholding Designs](https://arxiv.org/abs/2512.15244v1)** | 2025-12-17 |  |
 | **[How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models](https://arxiv.org/abs/2512.15115v1)** | 2025-12-17 |  |
 | **[Dense Associative Memories with Analog Circuits](https://arxiv.org/abs/2512.15002v1)** | 2025-12-17 |  |
 | **[A Physical Basis for Information](https://arxiv.org/abs/2407.09567v6)** | 2025-12-16 | - |
 | **[From STLS to Projection-based Dictionary Selection in Sparse Regression for System Identification](https://arxiv.org/abs/2512.14404v1)** | 2025-12-16 | 34 pages, 11 figures |
-| **[Causal Structure Learning for Dynamical Systems with Theoretical Score Analysis](https://arxiv.org/abs/2512.14361v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted as Oral at AAAI 2026 Conference</p></details> |
-| **[CiRL: Open-Source Environments for Reinforcement Learning in Circular Economy and Net Zero](https://arxiv.org/abs/2505.21536v2)** | 2025-12-16 | To be submitted |
-| **[Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations](https://arxiv.org/abs/2408.06069v2)** | 2025-12-15 |  |
-| **[Unsupervised learning of multiscale switching dynamical system models from multimodal neural data](https://arxiv.org/abs/2512.12881v1)** | 2025-12-14 | 30 pages, 8 figures |
-| **[From Linear Risk to Emergent Harm: Complexity as the Missing Core of AI Governance](https://arxiv.org/abs/2512.12707v1)** | 2025-12-14 | <details><summary>White...</summary><p>White Paper / Policy Brief (Working Paper). Published version available at: https://doi.org/10.5281/zenodo.17929014</p></details> |
-| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v1)** | 2025-12-14 | 17 pages, 2 figures |
-| **[Noise-robust Contrastive Learning for Critical Transition Detection in Dynamical Systems](https://arxiv.org/abs/2512.12523v1)** | 2025-12-14 | under revision |
-| **[Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
-| **[Data-driven modelling of autonomous and forced dynamical systems](https://arxiv.org/abs/2512.12432v1)** | 2025-12-13 | <details><summary>Keywo...</summary><p>Keywords: Invariant foliation, Invariant manifold, Reduced order model, Instantaneous frequency, Tensor approximation, Machine learning, JEPA</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v1)** | 2025-12-18 | 5 pages, 3 figures |
+| **[Riemannian Stochastic Interpolants for Amorphous Particle Systems](https://arxiv.org/abs/2512.16607v1)** | 2025-12-18 |  |
+| **[STAGNet: A Spatio-Temporal Graph and LSTM Framework for Accident Anticipation](https://arxiv.org/abs/2508.15216v2)** | 2025-12-18 | <details><summary>Publi...</summary><p>Published in IEEE Access (Early Access)</p></details> |
+| **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v1)** | 2025-12-18 | 21 pages, 15 figures |
+| **[Sharpness-aware Federated Graph Learning](https://arxiv.org/abs/2512.16247v1)** | 2025-12-18 | Accepted by WSDM'26 |
+| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models](https://arxiv.org/abs/2512.16236v1)** | 2025-12-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, Accepted in CLNLP'25</p></details> |
+| **[A Multi-scale Fused Graph Neural Network with Inter-view Contrastive Learning for Spatial Transcriptomics Data Clustering](https://arxiv.org/abs/2512.16188v1)** | 2025-12-18 | 15 pages, 3 figures |
+| **[A Multimodal Approach to Alzheimer's Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments](https://arxiv.org/abs/2512.16184v1)** | 2025-12-18 |  |
+| **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
+| **[Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations](https://arxiv.org/abs/2506.14850v2)** | 2025-12-18 |  |
+| **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v1)** | 2025-12-18 |  |
+| **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v2)** | 2025-12-17 | <details><summary>17 pa...</summary><p>17 pages. To appear in KDD'26 Datasets</p></details> |
+| **[Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks](https://arxiv.org/abs/2509.21735v2)** | 2025-12-17 |  |
 | **[Structure-Aligned Protein Language Model](https://arxiv.org/abs/2505.16896v2)** | 2025-12-17 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 9 tables</p></details> |
-| **[Exact Verification of Graph Neural Networks with Incremental Constraint Solving](https://arxiv.org/abs/2508.09320v2)** | 2025-12-17 |  |
-| **[Graph Contextual Reinforcement Learning for Efficient Directed Controller Synthesis](https://arxiv.org/abs/2512.15295v1)** | 2025-12-17 |  |
-| **[Improving Subgraph Matching by Combining Algorithms and Graph Neural Networks](https://arxiv.org/abs/2507.20226v2)** | 2025-12-17 | KDD 2025 |
-| **[Accelerating High-Throughput Catalyst Screening by Direct Generation of Equilibrium Adsorption Structures](https://arxiv.org/abs/2512.15228v1)** | 2025-12-17 |  |
-| **[Dual-Axis RCCL: Representation-Complete Convergent Learning for Organic Chemical Space](https://arxiv.org/abs/2512.14418v2)** | 2025-12-17 | 33 pages, 10 figures |
-| **[Convergent Privacy Framework for Multi-layer GNNs through Contractive Message Passing](https://arxiv.org/abs/2506.22727v2)** | 2025-12-17 | 31 pages |
-| **[RELIC-GNN: Efficient State Registers Identification with Graph Neural Network for Reverse Engineering](https://arxiv.org/abs/2512.15037v1)** | 2025-12-17 |  |
-| **[WaveGNN: Integrating Graph Neural Networks and Transformers for Decay-Aware Classification of Irregular Clinical Time-Series](https://arxiv.org/abs/2412.10621v2)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted to IEEE BigData 2025. Author-accepted manuscript</p></details> |
-| **[Improving Graph Neural Network Training, Defense and Hypergraph Partitioning via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v9)** | 2025-12-17 |  |
-| **[Spatio-Temporal Graph Neural Network for Urban Spaces: Interpolating Citywide Traffic Volume](https://arxiv.org/abs/2505.06292v2)** | 2025-12-16 |  |
-| **[ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs](https://arxiv.org/abs/2512.14908v1)** | 2025-12-16 | Preprint |
-| **[GNN101: Visual Learning of Graph Neural Networks in Your Web Browser](https://arxiv.org/abs/2411.17849v4)** | 2025-12-16 |  |
-| **[A Roadmap for Applying Graph Neural Networks to Numerical Data: Insights from Cementitious Materials](https://arxiv.org/abs/2512.14855v1)** | 2025-12-16 |  |
-| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v3)** | 2025-12-16 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
 
