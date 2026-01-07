@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -14,6 +14,7 @@ labels: documentation
 | **[Blade: A Derivative-free Bayesian Inversion Method using Diffusion Priors](https://arxiv.org/abs/2510.10968v2)** | 2026-01-05 |  |
 | **[Towards LLM-enabled autonomous combustion research: A literature-aware agent for self-corrective modeling workflows](https://arxiv.org/abs/2601.01357v1)** | 2026-01-04 |  |
 | **[Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras](https://arxiv.org/abs/2504.18864v4)** | 2026-01-02 | <details><summary>To ap...</summary><p>To appear in AAAI-26 proceedings</p></details> |
+| **[OpenFOAM computational fluid dynamics (CFD) solver for magnetohydrodynamic open cycles, applied to the Sakhalin pulsed magnetohydrodynamic generator (PMHDG)](https://arxiv.org/abs/2601.02406v1)** | 2026-01-01 | <details><summary>45 pa...</summary><p>45 pages, 22 figures, 6 tables, published journal article, peer-reviewed, open access</p></details> |
 | **[Solving nonlinear subsonic compressible flow in infinite domain via multi-stage neural networks](https://arxiv.org/abs/2601.00342v1)** | 2026-01-01 | 24 pages, 9 figures |
 | **[Cuffless, calibration-free hemodynamic monitoring with physics-informed machine learning models](https://arxiv.org/abs/2601.00081v1)** | 2025-12-31 | <details><summary>225 p...</summary><p>225 pages, Number of Main Figures 4, Number of Extended Data Tables 4, Number of Extended Data Figures 5, Number of Supplementary Figures 34, Number of Supplementary Tables 11, Number of Supplementary Videos 11, Supplementary Statistical Table 1 (Supplementary Table 12)</p></details> |
 | **[Quantum Generative Models for Computational Fluid Dynamics: A First Exploration of Latent Space Learning in Lattice Boltzmann Simulations](https://arxiv.org/abs/2512.22672v1)** | 2025-12-27 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
 | **[AInsteinBench: Benchmarking Coding Agents on Scientific Repositories](https://arxiv.org/abs/2512.21373v1)** | 2025-12-24 |  |
 | **[Amortized Inference for Model Rocket Aerodynamics: Learning to Estimate Physical Parameters from Simulation](https://arxiv.org/abs/2512.22248v1)** | 2025-12-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables</p></details> |
-| **[Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics](https://arxiv.org/abs/2504.04375v3)** | 2025-12-23 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,38 +64,38 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence](https://arxiv.org/abs/2601.03220v1)** | 2026-01-06 |  |
+| **[Modeling Information Blackouts in Missing Not-At-Random Time Series Data](https://arxiv.org/abs/2601.01480v2)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
+| **[At the Intersection of Deep Sequential Model Framework and State-space Model Framework: Study on Option Pricing](https://arxiv.org/abs/2012.07784v2)** | 2026-01-06 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, preprint</p></details> |
 | **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v3)** | 2026-01-05 |  |
 | **[Comparison of neural network training strategies for the simulation of dynamical systems](https://arxiv.org/abs/2512.03851v2)** | 2026-01-05 | <details><summary>submi...</summary><p>submitted to ECC 2026</p></details> |
 | **[ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems](https://arxiv.org/abs/2601.01982v1)** | 2026-01-05 | <details><summary>7 pag...</summary><p>7 pages, 0 figures , Accepted to AAAI-26 Bridge Program: Logical and Symbolic Reasoning in Language Models (camera-ready)</p></details> |
+| **[Physical Transformer](https://arxiv.org/abs/2601.02433v1)** | 2026-01-05 | 38 pages, 2 figures |
 | **[Information Flow in geophysical systems](https://arxiv.org/abs/2601.01795v1)** | 2026-01-05 | Submitted to JAMES |
 | **[Latent Space Element Method](https://arxiv.org/abs/2601.01741v1)** | 2026-01-05 | 17 pages, 10 figures |
 | **[Relaxed Equivariance via Multitask Learning](https://arxiv.org/abs/2410.17878v3)** | 2026-01-04 |  |
 | **[On the Emergence of Linear Behavior in Large-Scale Dynamical Systems via Spatial Averaging](https://arxiv.org/abs/2509.25589v2)** | 2026-01-04 |  |
-| **[Modeling Information Blackouts in Missing Not-At-Random Time Series Data](https://arxiv.org/abs/2601.01480v1)** | 2026-01-04 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
 | **[Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite](https://arxiv.org/abs/2601.01317v1)** | 2026-01-04 |  |
 | **[No Minima, No Collisions: Combining Modulation and Control Barrier Function Strategies for Feasible Dynamic Collision Avoidance](https://arxiv.org/abs/2502.14238v3)** | 2026-01-03 |  |
 | **[NeuroSSM: Multiscale Differential State-Space Modeling for Context-Aware fMRI Analysis](https://arxiv.org/abs/2601.01229v1)** | 2026-01-03 |  |
 | **[KOS-TL (Knowledge Operation System Type Logic)](https://arxiv.org/abs/2601.01143v1)** | 2026-01-03 |  |
-| **[Fibonacci-Driven Recursive Ensembles: Algorithms, Convergence, and Learning Dynamics](https://arxiv.org/abs/2601.01055v1)** | 2026-01-03 | 19 pages |
-| **[Disordered Dynamics in High Dimensions: Connections to Random Matrices and Machine Learning](https://arxiv.org/abs/2601.01010v1)** | 2026-01-03 |  |
-| **[Gradient-free ensemble transform methods for generalized Bayesian inference in generative models](https://arxiv.org/abs/2601.00760v1)** | 2026-01-02 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction](https://arxiv.org/abs/2504.06193v2)** | 2026-01-06 |  |
+| **[Explainable Fuzzy GNNs for Leak Detection in Water Distribution Networks](https://arxiv.org/abs/2601.03062v1)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted at IFSA-NAFIPS 2025</p></details> |
+| **[Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries](https://arxiv.org/abs/2601.03030v1)** | 2026-01-06 |  |
+| **[A Large-Scale Analysis on the Use of Arrival Time Prediction for Automated Shuttle Services in the Real World](https://arxiv.org/abs/2401.05322v2)** | 2026-01-06 |  |
+| **[Accelerating Storage-Based Training for Graph Neural Networks](https://arxiv.org/abs/2601.01473v2)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 2 tables, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2026</p></details> |
+| **[Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction](https://arxiv.org/abs/2601.02629v1)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Under review</p></details> |
+| **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
+| **[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882v4)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted KDD 2026 Research Track Paper</p></details> |
+| **[mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](https://arxiv.org/abs/2601.02451v1)** | 2026-01-05 |  |
 | **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v1)** | 2026-01-05 |  |
 | **[ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v1)** | 2026-01-05 |  |
 | **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
+| **[Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438v1)** | 2026-01-05 |  |
 | **[GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes](https://arxiv.org/abs/2502.17999v2)** | 2026-01-05 |  |
 | **[Improving Graph Neural Network Training, Defense and Hypergraph Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v11)** | 2026-01-05 |  |
-| **[Learning Resilient Elections with Adversarial GNNs](https://arxiv.org/abs/2601.01653v1)** | 2026-01-04 |  |
-| **[Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression](https://arxiv.org/abs/2509.21735v3)** | 2026-01-04 |  |
-| **[Accelerating Storage-Based Training for Graph Neural Networks](https://arxiv.org/abs/2601.01473v1)** | 2026-01-04 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 2 tables, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2026</p></details> |
-| **[Learning Repetition-Invariant Representations for Polymer Informatics](https://arxiv.org/abs/2505.10726v3)** | 2026-01-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Sparse Bayesian Message Passing under Structural Uncertainty](https://arxiv.org/abs/2601.01207v1)** | 2026-01-03 |  |
-| **[The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction](https://arxiv.org/abs/2512.23489v2)** | 2026-01-03 |  |
-| **[Learning from Historical Activations in Graph Neural Networks](https://arxiv.org/abs/2601.01123v1)** | 2026-01-03 |  |
-| **[Dynamic Graph Neural Networks for Physiological Based Pharmacokinetic Modeling: A Novel Data Driven Approach to Drug Concentration Prediction](https://arxiv.org/abs/2510.22096v2)** | 2026-01-03 |  |
-| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v2)** | 2026-01-02 | <details><summary>v2: A...</summary><p>v2: Author list updated to include previously omitted co-authors</p></details> |
-| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
 
