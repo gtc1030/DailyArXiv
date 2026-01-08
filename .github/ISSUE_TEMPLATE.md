@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 08, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,7 +64,12 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
+| **[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978v4)** | 2026-01-07 |  |
+| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v2)** | 2026-01-07 | 17 pages, 2 figures |
+| **[Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces](https://arxiv.org/abs/2308.08794v2)** | 2026-01-06 |  |
 | **[From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence](https://arxiv.org/abs/2601.03220v1)** | 2026-01-06 |  |
+| **[On the Identifiability of Regime-Switching Models with Multi-Lag Dependencies](https://arxiv.org/abs/2601.03325v1)** | 2026-01-06 | <details><summary>See h...</summary><p>See https://github.com/charlio23/identifiable-SDS for code</p></details> |
 | **[Modeling Information Blackouts in Missing Not-At-Random Time Series Data](https://arxiv.org/abs/2601.01480v2)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
 | **[At the Intersection of Deep Sequential Model Framework and State-space Model Framework: Study on Option Pricing](https://arxiv.org/abs/2012.07784v2)** | 2026-01-06 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, preprint</p></details> |
 | **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v3)** | 2026-01-05 |  |
@@ -74,15 +79,16 @@ labels: documentation
 | **[Information Flow in geophysical systems](https://arxiv.org/abs/2601.01795v1)** | 2026-01-05 | Submitted to JAMES |
 | **[Latent Space Element Method](https://arxiv.org/abs/2601.01741v1)** | 2026-01-05 | 17 pages, 10 figures |
 | **[Relaxed Equivariance via Multitask Learning](https://arxiv.org/abs/2410.17878v3)** | 2026-01-04 |  |
-| **[On the Emergence of Linear Behavior in Large-Scale Dynamical Systems via Spatial Averaging](https://arxiv.org/abs/2509.25589v2)** | 2026-01-04 |  |
-| **[Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite](https://arxiv.org/abs/2601.01317v1)** | 2026-01-04 |  |
-| **[No Minima, No Collisions: Combining Modulation and Control Barrier Function Strategies for Feasible Dynamic Collision Avoidance](https://arxiv.org/abs/2502.14238v3)** | 2026-01-03 |  |
-| **[NeuroSSM: Multiscale Differential State-Space Modeling for Context-Aware fMRI Analysis](https://arxiv.org/abs/2601.01229v1)** | 2026-01-03 |  |
-| **[KOS-TL (Knowledge Operation System Type Logic)](https://arxiv.org/abs/2601.01143v1)** | 2026-01-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation](https://arxiv.org/abs/2601.04177v1)** | 2026-01-07 | <details><summary>16 Pa...</summary><p>16 Pages, 5 Figures, 9 Tables, submitted to IEEE TITS</p></details> |
+| **[Graph Reinforcement Learning for Power Grids: A Comprehensive Survey](https://arxiv.org/abs/2407.04522v4)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted in Energy & AI, in-press</p></details> |
+| **[Dual-Attention Heterogeneous GNN for Multi-robot Collaborative Area Search via Deep Reinforcement Learning](https://arxiv.org/abs/2601.03686v1)** | 2026-01-07 |  |
+| **[InsertGNN: Can Graph Neural Networks Outperform Humans in TOEFL Sentence Insertion Problem?](https://arxiv.org/abs/2103.15066v3)** | 2026-01-07 |  |
+| **[Discovering the Representation Bottleneck of Graph Neural Networks](https://arxiv.org/abs/2205.07266v5)** | 2026-01-07 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](https://arxiv.org/abs/2503.24111v2)** | 2026-01-07 | 12 pages, 12 figures |
 | **[Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction](https://arxiv.org/abs/2504.06193v2)** | 2026-01-06 |  |
 | **[Explainable Fuzzy GNNs for Leak Detection in Water Distribution Networks](https://arxiv.org/abs/2601.03062v1)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted at IFSA-NAFIPS 2025</p></details> |
 | **[Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries](https://arxiv.org/abs/2601.03030v1)** | 2026-01-06 |  |
@@ -92,10 +98,4 @@ labels: documentation
 | **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
 | **[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882v4)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted KDD 2026 Research Track Paper</p></details> |
 | **[mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](https://arxiv.org/abs/2601.02451v1)** | 2026-01-05 |  |
-| **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v1)** | 2026-01-05 |  |
-| **[ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v1)** | 2026-01-05 |  |
-| **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
-| **[Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438v1)** | 2026-01-05 |  |
-| **[GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes](https://arxiv.org/abs/2502.17999v2)** | 2026-01-05 |  |
-| **[Improving Graph Neural Network Training, Defense and Hypergraph Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v11)** | 2026-01-05 |  |
 
