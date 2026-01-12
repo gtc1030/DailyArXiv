@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe](https://arxiv.org/abs/2507.15444v2)** | 2026-01-09 | 19 pages |
 | **[The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming](https://arxiv.org/abs/2510.02415v2)** | 2026-01-08 |  |
 | **[Guiding diffusion models to reconstruct flow fields from sparse data](https://arxiv.org/abs/2510.19971v2)** | 2026-01-08 | <details><summary>Publi...</summary><p>Published on Physics of Fluids, code and data can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
 | **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Cuffless, calibration-free hemodynamic monitoring with physics-informed machine learning models](https://arxiv.org/abs/2601.00081v1)** | 2025-12-31 | <details><summary>225 p...</summary><p>225 pages, Number of Main Figures 4, Number of Extended Data Tables 4, Number of Extended Data Figures 5, Number of Supplementary Figures 34, Number of Supplementary Tables 11, Number of Supplementary Videos 11, Supplementary Statistical Table 1 (Supplementary Table 12)</p></details> |
 | **[Quantum Generative Models for Computational Fluid Dynamics: A First Exploration of Latent Space Learning in Lattice Boltzmann Simulations](https://arxiv.org/abs/2512.22672v1)** | 2025-12-27 |  |
 | **[PhysicsCorrect: A Training-Free Approach for Stable Neural PDE Simulations](https://arxiv.org/abs/2507.02227v2)** | 2025-12-25 | AAAI 2026 Oral |
-| **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,12 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Next-Generation Reservoir Computing for Dynamical Inference](https://arxiv.org/abs/2509.11338v3)** | 2026-01-09 | <details><summary>12 pa...</summary><p>12 pages, 12 figures; published version</p></details> |
+| **[Disordered Dynamics in High Dimensions: Connections to Random Matrices and Machine Learning](https://arxiv.org/abs/2601.01010v2)** | 2026-01-09 | <details><summary>Fixin...</summary><p>Fixing typos, adding response fn definitions for 8.2</p></details> |
+| **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
 | **[Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/abs/2601.05184v1)** | 2026-01-08 |  |
 | **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v2)** | 2026-01-08 |  |
+| **[Machine learning assisted state prediction of misspecified linear dynamical system via modal reduction](https://arxiv.org/abs/2601.05297v1)** | 2026-01-08 |  |
 | **[Phasor Agents: Oscillatory Graphs with Three-Factor Plasticity and Sleep-Staged Learning](https://arxiv.org/abs/2601.04362v1)** | 2026-01-07 | 22 pages, 14 figures |
 | **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
 | **[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978v4)** | 2026-01-07 |  |
@@ -75,14 +79,17 @@ labels: documentation
 | **[On the Identifiability of Regime-Switching Models with Multi-Lag Dependencies](https://arxiv.org/abs/2601.03325v1)** | 2026-01-06 | <details><summary>See h...</summary><p>See https://github.com/charlio23/identifiable-SDS for code</p></details> |
 | **[Modeling Information Blackouts in Missing Not-At-Random Time Series Data](https://arxiv.org/abs/2601.01480v2)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
 | **[At the Intersection of Deep Sequential Model Framework and State-space Model Framework: Study on Option Pricing](https://arxiv.org/abs/2012.07784v2)** | 2026-01-06 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, preprint</p></details> |
-| **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v3)** | 2026-01-05 |  |
-| **[Comparison of neural network training strategies for the simulation of dynamical systems](https://arxiv.org/abs/2512.03851v2)** | 2026-01-05 | <details><summary>submi...</summary><p>submitted to ECC 2026</p></details> |
-| **[ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems](https://arxiv.org/abs/2601.01982v1)** | 2026-01-05 | <details><summary>7 pag...</summary><p>7 pages, 0 figures , Accepted to AAAI-26 Bridge Program: Logical and Symbolic Reasoning in Language Models (camera-ready)</p></details> |
-| **[Physical Transformer](https://arxiv.org/abs/2601.02433v1)** | 2026-01-05 | 38 pages, 2 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
+| **[CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks](https://arxiv.org/abs/2601.05988v1)** | 2026-01-09 | <details><summary>17 pa...</summary><p>17 pages; 11 figures; 8 tables</p></details> |
+| **[Evaluating machine learning models for predicting pesticide toxicity to honey bees](https://arxiv.org/abs/2503.24305v4)** | 2026-01-09 |  |
+| **[Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts](https://arxiv.org/abs/2601.05537v1)** | 2026-01-09 |  |
+| **[Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation](https://arxiv.org/abs/2601.04177v2)** | 2026-01-09 | <details><summary>16 Pa...</summary><p>16 Pages, 5 Figures, 9 Tables, submitted to IEEE TITS</p></details> |
+| **[Grasp the Graph (GtG) 2.0: Ensemble of Graph Neural Networks for High-Precision Grasp Pose Detection in Clutter](https://arxiv.org/abs/2505.02664v2)** | 2026-01-08 | 20 pages |
+| **[DynaSTy: A Framework for SpatioTemporal Node Attribute Prediction in Dynamic Graphs](https://arxiv.org/abs/2601.05391v1)** | 2026-01-08 |  |
 | **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v2)** | 2026-01-08 |  |
 | **[Neural Algorithmic Reasoning for Approximate $k$-Coloring with Recursive Warm Starts](https://arxiv.org/abs/2601.05137v1)** | 2026-01-08 | 33 pages, 10 figures |
 | **[Topology-Informed Graph Transformer](https://arxiv.org/abs/2402.02005v3)** | 2026-01-08 | <details><summary>Proce...</summary><p>Proceedings of the Geometry-grounded Representation Learning and Generative Modeling Workshop (GRaM) at ICML 2024</p></details> |
@@ -91,11 +98,4 @@ labels: documentation
 | **[MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration](https://arxiv.org/abs/2601.04801v1)** | 2026-01-08 |  |
 | **[GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks](https://arxiv.org/abs/2402.12937v2)** | 2026-01-08 |  |
 | **[MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training](https://arxiv.org/abs/2601.04707v1)** | 2026-01-08 | IEEE Access 2025 |
-| **[A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks](https://arxiv.org/abs/2601.04705v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in SMF 2026. 8 pages, 3 figures</p></details> |
-| **[A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models](https://arxiv.org/abs/2601.04696v1)** | 2026-01-08 |  |
-| **[Enhancing Graph Representations with Neighborhood-Contextualized Message-Passing](https://arxiv.org/abs/2511.11046v2)** | 2026-01-08 |  |
-| **[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](https://arxiv.org/abs/2601.04509v1)** | 2026-01-08 |  |
-| **[Convergent Privacy Framework for Multi-layer GNNs through Contractive Message Passing](https://arxiv.org/abs/2506.22727v3)** | 2026-01-07 | 31 pages |
-| **[Graph Integrated Transformers for Community Detection in Social Networks](https://arxiv.org/abs/2601.04367v1)** | 2026-01-07 | <details><summary>Paper...</summary><p>Paper accepted at IEEE GLOBECOM 2025</p></details> |
-| **[Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation](https://arxiv.org/abs/2601.04177v1)** | 2026-01-07 | <details><summary>16 Pa...</summary><p>16 Pages, 5 Figures, 9 Tables, submitted to IEEE TITS</p></details> |
 
