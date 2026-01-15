@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,30 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning About Learning: A Physics Path from Spin Glasses to Artificial Intelligence](https://arxiv.org/abs/2601.07635v2)** | 2026-01-14 | 18 pages, 11 figures |
+| **[3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking](https://arxiv.org/abs/2601.09294v1)** | 2026-01-14 | 28 pages, 12 figures |
+| **[Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces](https://arxiv.org/abs/2308.08794v3)** | 2026-01-14 |  |
+| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v2)** | 2026-01-14 | 15 figures |
+| **[Correspondences in computational and dynamical complexity I](https://arxiv.org/abs/2601.09109v1)** | 2026-01-14 | 25 pages, 1 figure |
+| **[Integration Matters for Learning PDEs with Backward SDEs](https://arxiv.org/abs/2505.01078v3)** | 2026-01-13 | NeurIPS 2025 |
 | **[On the use of graph models to achieve individual and group fairness](https://arxiv.org/abs/2601.08784v1)** | 2026-01-13 | 75 pages, 46 figures |
 | **[A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems](https://arxiv.org/abs/2601.08065v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted to AAAI-2026 Bridge Program B10: Making Embodied AI Reliable with Testing and Formal Verification</p></details> |
 | **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
-| **[Learning About Learning: A Physics Path from Spin Glasses to Artificial Intelligence](https://arxiv.org/abs/2601.07635v1)** | 2026-01-12 | 18 pages, 11 figures |
 | **[DyMixOp: Guiding Neural Operator Design for PDEs from a Complex Dynamics Perspective with Local-Global-Mixing](https://arxiv.org/abs/2508.13490v2)** | 2026-01-12 |  |
 | **[AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving](https://arxiv.org/abs/2503.05096v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This paper is accepted by ACM SoCC 2025</p></details> |
 | **[DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models](https://arxiv.org/abs/2507.15716v2)** | 2026-01-11 |  |
 | **[WFR-FM: Simulation-Free Dynamic Unbalanced Optimal Transport](https://arxiv.org/abs/2601.06810v1)** | 2026-01-11 |  |
 | **[A Comparison of Parametric Dynamic Mode Decomposition Algorithms for Thermal-Hydraulics Applications](https://arxiv.org/abs/2503.24205v2)** | 2026-01-10 | <details><summary>Accep...</summary><p>Accepted for pubblication in Nuclear Technology</p></details> |
 | **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v4)** | 2026-01-10 |  |
-| **[Next-Generation Reservoir Computing for Dynamical Inference](https://arxiv.org/abs/2509.11338v3)** | 2026-01-09 | <details><summary>12 pa...</summary><p>12 pages, 12 figures; published version</p></details> |
-| **[Disordered Dynamics in High Dimensions: Connections to Random Matrices and Machine Learning](https://arxiv.org/abs/2601.01010v2)** | 2026-01-09 | <details><summary>Fixin...</summary><p>Fixing typos, adding response fn definitions for 8.2</p></details> |
-| **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
-| **[Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/abs/2601.05184v1)** | 2026-01-08 |  |
-| **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v2)** | 2026-01-08 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](https://arxiv.org/abs/2411.06500v4)** | 2026-01-14 | 20 pages, 9 figures |
+| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
+| **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
+| **[SPOT-Face: Forensic Face Identification using Attention Guided Optimal Transport](https://arxiv.org/abs/2601.09229v1)** | 2026-01-14 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 3 tables (ICPR_2026)</p></details> |
+| **[Benchmarking Positional Encodings for GNNs and Graph Transformers](https://arxiv.org/abs/2411.12732v2)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 Datasets & Benchmarks Track</p></details> |
 | **[A Mesh-Adaptive Hypergraph Neural Network for Unsteady Flow Around Oscillating and Rotating Structures](https://arxiv.org/abs/2503.22252v2)** | 2026-01-13 |  |
 | **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](https://arxiv.org/abs/2503.06614v2)** | 2026-01-13 | 16 pages |
 | **[Directed Homophily-Aware Graph Neural Network](https://arxiv.org/abs/2505.22362v3)** | 2026-01-13 |  |
@@ -93,9 +98,4 @@ labels: documentation
 | **[Rep3Net: An Approach Exploiting Multimodal Representation for Molecular Bioactivity Prediction](https://arxiv.org/abs/2512.00521v2)** | 2026-01-12 |  |
 | **[Symbolic regression for defect interactions in 2D materials](https://arxiv.org/abs/2512.20785v2)** | 2026-01-12 |  |
 | **[Position: Don't be Afraid of Over-Smoothing And Over-Squashing](https://arxiv.org/abs/2601.07419v1)** | 2026-01-12 | <details><summary>Prepr...</summary><p>Preprint. Copyright 2026 by the authors</p></details> |
-| **[PLANET v2.0: A comprehensive Protein-Ligand Affinity Prediction Model Based on Mixture Density Network](https://arxiv.org/abs/2601.07415v1)** | 2026-01-12 |  |
-| **[Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets](https://arxiv.org/abs/2507.15784v2)** | 2026-01-12 | <details><summary>It's ...</summary><p>It's written so poorly, my bad</p></details> |
-| **[Learning to Trust the Crowd: A Multi-Model Consensus Reasoning Engine for Large Language Models](https://arxiv.org/abs/2601.07245v1)** | 2026-01-12 |  |
-| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
-| **[SIGNL: A Label-Efficient Audio Deepfake Detection System via Spectral-Temporal Graph Non-Contrastive Learning](https://arxiv.org/abs/2501.04942v2)** | 2026-01-12 |  |
 
