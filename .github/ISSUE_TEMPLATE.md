@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Partner Project: Multi-GPU Performance Portability Analysis for CFD Simulations at Scale](https://arxiv.org/abs/2601.14159v1)** | 2026-01-20 | <details><summary>DATE ...</summary><p>DATE 26 conference Multi-Partner Project Paper</p></details> |
+| **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v4)** | 2026-01-20 |  |
+| **[Learning to Solve Optimization Problems Constrained with Partial Differential Equations](https://arxiv.org/abs/2509.24573v2)** | 2026-01-19 |  |
+| **[DaggerFFT: A Distributed FFT Framework Using Task Scheduling in Julia](https://arxiv.org/abs/2601.12209v1)** | 2026-01-18 |  |
+| **[Code2MCP: Transforming Code Repositories into MCP Services](https://arxiv.org/abs/2509.05941v3)** | 2026-01-17 |  |
 | **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v1)** | 2026-01-16 |  |
 | **[Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model](https://arxiv.org/abs/2601.11143v1)** | 2026-01-16 | <details><summary>9 pag...</summary><p>9 pages, Accepted to IEEE Robotics and Automation Letters (RA-L) 2025</p></details> |
 | **[Comprehensive Robust Dynamic Mode Decomposition from Mode Extraction to Dimensional Reduction](https://arxiv.org/abs/2601.11116v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Signal Processing. The source code is available at https://github.com/MDI-TokyoTech/Comprehensive-Robust-Dynamic-Mode-Decomposition. The project page is https://www.mdi.c.titech.ac.jp/publications/cr-dmd</p></details> |
@@ -17,15 +22,11 @@ labels: documentation
 | **[PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI](https://arxiv.org/abs/2511.11048v2)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026. Supplementary material included after references. 27 pages, 21 figures, 11 tables</p></details> |
 | **[SwarmFoam: An OpenFOAM Multi-Agent System Based on Multiple Types of Large Language Models](https://arxiv.org/abs/2601.07252v1)** | 2026-01-12 | 26 pages, 15 figures |
 | **[Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe](https://arxiv.org/abs/2507.15444v2)** | 2026-01-09 | 19 pages |
-| **[The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming](https://arxiv.org/abs/2510.02415v2)** | 2026-01-08 |  |
-| **[Guiding diffusion models to reconstruct flow fields from sparse data](https://arxiv.org/abs/2510.19971v2)** | 2026-01-08 | <details><summary>Publi...</summary><p>Published on Physics of Fluids, code and data can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
-| **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
-| **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
-| **[Car Drag Coefficient Prediction from 3D Point Clouds Using a Slice-Based Surrogate Model](https://arxiv.org/abs/2601.02112v1)** | 2026-01-05 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Published in: Bramer M., Stahl F. (eds) Artificial Intelligence XLII. SGAI 2025. Lecture Notes in Computer Science, vol 16302. Springer, Cham</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v1)** | 2026-01-17 |  |
 | **[Structure-preserving Lift & Learn: Scientific machine learning for nonlinear conservative partial differential equations](https://arxiv.org/abs/2507.00301v2)** | 2026-01-08 |  |
 | **[Active inference and artificial reasoning](https://arxiv.org/abs/2512.21129v1)** | 2025-12-24 |  |
 | **[Surrogate Trajectories Along Probability Flows: Pseudo Markovian Alternative to Mori Zwanzig](https://arxiv.org/abs/2601.00015v1)** | 2025-12-20 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[C-SWAP: Explainability-Aware Structured Pruning for Efficient Neural Networks Compression](https://arxiv.org/abs/2510.18636v1)** | 2025-10-21 | 10 pages, BMVC2025 |
 | **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](https://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
 | **[A Bayesian Framework for Symmetry Inference in Chaotic Attractors](https://arxiv.org/abs/2510.16509v1)** | 2025-10-18 |  |
-| **[Nonlinear energy-preserving model reduction with lifting transformations that quadratize the energy](https://arxiv.org/abs/2503.02273v2)** | 2025-10-18 |  |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning](https://arxiv.org/abs/2503.12538v2)** | 2026-01-18 | 13 pages |
 | **[Data-driven stochastic reduced-order modeling of parametrized dynamical systems](https://arxiv.org/abs/2601.10690v1)** | 2026-01-15 |  |
 | **[Symbolic Learning of Interpretable Reduced-Order Models for Jumping Quadruped Robots](https://arxiv.org/abs/2508.06538v2)** | 2026-01-13 | 8 pages |
 | **[An adjoint method for training data-driven reduced-order models](https://arxiv.org/abs/2601.07579v1)** | 2026-01-12 |  |
@@ -59,43 +60,42 @@ labels: documentation
 | **[Reduced Order Modeling for Tsunami Forecasting with Bayesian Hierarchical Pooling](https://arxiv.org/abs/2512.19804v1)** | 2025-12-22 |  |
 | **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v7)** | 2025-12-22 |  |
 | **[A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows](https://arxiv.org/abs/2512.19376v1)** | 2025-12-22 | 27 pages, 9 figures |
-| **[GenUQ: Predictive Uncertainty Estimates via Generative Hyper-Networks](https://arxiv.org/abs/2509.21605v2)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, SPIGM workshop at NeurIPS 2025, https://openreview.net/forum?id=IT9lF59UqG&noteId=IT9lF59UqG</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v2)** | 2026-01-20 |  |
+| **[Towards Fast Coarse-graining and Equation Discovery with Foundation Inference Models](https://arxiv.org/abs/2510.12618v2)** | 2026-01-20 |  |
+| **[GeoDynamics: A Geometric State-Space Neural Network for Understanding Brain Dynamics on Riemannian Manifolds](https://arxiv.org/abs/2601.13570v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[CausationEntropy: Pythonic Optimal Causation Entropy](https://arxiv.org/abs/2601.13365v1)** | 2026-01-19 |  |
+| **[Discovering equations from data: symbolic regression in dynamical systems](https://arxiv.org/abs/2508.20257v2)** | 2026-01-19 |  |
+| **[Training instability in deep learning follows low-dimensional dynamical principles](https://arxiv.org/abs/2601.13160v1)** | 2026-01-19 |  |
+| **[Surrogate-based Bayesian calibration methods for chaotic systems: a comparison of traditional and non-traditional approaches](https://arxiv.org/abs/2508.13071v2)** | 2026-01-19 | 34 pages, 6 figures |
+| **[Sensing-Limited Control of Noiseless Linear Systems Under Nonlinear Observations](https://arxiv.org/abs/2601.12782v1)** | 2026-01-19 | 5 pages, conference |
+| **[An Adaptive Online Smoother with Closed-Form Solutions and Information-Theoretic Lag Selection for Conditional Gaussian Nonlinear Systems](https://arxiv.org/abs/2411.05870v2)** | 2026-01-19 | <details><summary>Lates...</summary><p>Latest revision. 46 pages (Main Text pp. 1--28; Appendix pp. 29--40), 9 figures (7 in Main Text, 2 in Appendix). Currently under review in Journal of Nonlinear Science (Springer Nature). Code available upon request. For further details visit https://mariosandreou.short.gy/OnlineSmootherCGNS</p></details> |
+| **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v1)** | 2026-01-17 |  |
+| **[Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems](https://arxiv.org/abs/2507.07222v3)** | 2026-01-17 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2025. The first two authors contributed equally. 30 pages, 5 figures, 4 tables. Code is available at https://github.com/MinchanJeong/NeuralKoopmanSVD</p></details> |
+| **[Flash STU: Fast Spectral Transform Units](https://arxiv.org/abs/2409.10489v6)** | 2026-01-17 |  |
 | **[Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs](https://arxiv.org/abs/2601.11259v1)** | 2026-01-16 |  |
 | **[Comprehensive Robust Dynamic Mode Decomposition from Mode Extraction to Dimensional Reduction](https://arxiv.org/abs/2601.11116v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Signal Processing. The source code is available at https://github.com/MDI-TokyoTech/Comprehensive-Robust-Dynamic-Mode-Decomposition. The project page is https://www.mdi.c.titech.ac.jp/publications/cr-dmd</p></details> |
 | **[Predictability Enables Parallelization of Nonlinear State Space Models](https://arxiv.org/abs/2508.16817v3)** | 2026-01-16 | <details><summary>NeurI...</summary><p>NeurIPS '25. XG and LK dual lead authors. Code: https://github.com/lindermanlab/predictability_enables_parallelization</p></details> |
-| **[The Curious Case of In-Training Compression of State Space Models](https://arxiv.org/abs/2510.02823v3)** | 2026-01-15 |  |
-| **[Data-driven stochastic reduced-order modeling of parametrized dynamical systems](https://arxiv.org/abs/2601.10690v1)** | 2026-01-15 |  |
-| **[Barrier Certificates for Unknown Systems with Latent States and Polynomial Dynamics using Bayesian Inference](https://arxiv.org/abs/2504.01807v3)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 64th IEEE Conference on Decision and Control</p></details> |
-| **[LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities](https://arxiv.org/abs/2502.12128v5)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page: https://ml-jku.github.io/LaM-SLidE/</p></details> |
-| **[Correspondences in computational and dynamical complexity II: forcing complex reductions](https://arxiv.org/abs/2601.09973v1)** | 2026-01-15 | 20 pages, 0 figures |
-| **[A Control Theoretic Approach to Decentralized AI Economy Stabilization via Dynamic Buyback-and-Burn Mechanisms](https://arxiv.org/abs/2601.09961v1)** | 2026-01-15 | 12 pages |
-| **[Learning About Learning: A Physics Path from Spin Glasses to Artificial Intelligence](https://arxiv.org/abs/2601.07635v2)** | 2026-01-14 | 18 pages, 11 figures |
-| **[3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking](https://arxiv.org/abs/2601.09294v1)** | 2026-01-14 | 28 pages, 12 figures |
-| **[Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces](https://arxiv.org/abs/2308.08794v3)** | 2026-01-14 |  |
-| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v2)** | 2026-01-14 | 15 figures |
-| **[Correspondences in computational and dynamical complexity I](https://arxiv.org/abs/2601.09109v1)** | 2026-01-14 | 25 pages, 1 figure |
-| **[Integration Matters for Learning PDEs with Backward SDEs](https://arxiv.org/abs/2505.01078v3)** | 2026-01-13 | NeurIPS 2025 |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predictive Modeling of Power Outages during Extreme Events: Integrating Weather and Socio-Economic Factors](https://arxiv.org/abs/2512.22699v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This is a preprint of a manuscript currently under review at Electric Power Systems Research. The content may be subject to change following peer review</p></details> |
-| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v1)** | 2026-01-16 |  |
-| **[New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic](https://arxiv.org/abs/2601.11414v1)** | 2026-01-16 |  |
-| **[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2601.11401v1)** | 2026-01-16 |  |
-| **[Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs](https://arxiv.org/abs/2601.11259v1)** | 2026-01-16 |  |
-| **[Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs](https://arxiv.org/abs/2601.11159v1)** | 2026-01-16 |  |
-| **[MiCA: A Mobility-Informed Causal Adapter for Lightweight Epidemic Forecasting](https://arxiv.org/abs/2601.11089v1)** | 2026-01-16 |  |
-| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v1)** | 2026-01-16 |  |
-| **[KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure](https://arxiv.org/abs/2601.11018v1)** | 2026-01-16 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Symposium on Biomedical Imaging (ISBI 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
-| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v2)** | 2026-01-16 |  |
-| **[U-PINet: Physics-Informed Hierarchical Learning for Radar Cross Section Prediction via 3D Electromagnetic Scattering Reconstruction](https://arxiv.org/abs/2508.03774v3)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to an IEEE Transactions Journal</p></details> |
-| **[Aggregating Direct and Indirect Neighbors through Graph Linear Transformations](https://arxiv.org/abs/2511.16871v2)** | 2026-01-15 | 14 pages, 7 Figures |
-| **[Superposition in Graph Neural Networks](https://arxiv.org/abs/2509.00928v2)** | 2026-01-15 |  |
-| **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
-| **[PLGC: Pseudo-Labeled Graph Condensation](https://arxiv.org/abs/2601.10358v1)** | 2026-01-15 |  |
+| **[Adaptive Riemannian Graph Neural Networks](https://arxiv.org/abs/2508.02600v2)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26), Main Technical Track</p></details> |
+| **[Riemannian Liquid Spatio-Temporal Graph Network](https://arxiv.org/abs/2601.14115v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to The Web Conference 2026</p></details> |
+| **[Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438v2)** | 2026-01-20 |  |
+| **[Resilient Routing: Risk-Aware Dynamic Routing in Smart Logistics via Spatiotemporal Graph Learning](https://arxiv.org/abs/2601.13632v1)** | 2026-01-20 |  |
+| **[Graph Neural Networks are Heuristics](https://arxiv.org/abs/2601.13465v1)** | 2026-01-19 |  |
+| **[TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction](https://arxiv.org/abs/2601.13422v1)** | 2026-01-19 |  |
+| **[Conflict Detection in AI-RAN: Efficient Interaction Learning and Autonomous Graph Reconstruction](https://arxiv.org/abs/2601.13213v1)** | 2026-01-19 |  |
+| **[Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement](https://arxiv.org/abs/2509.09219v2)** | 2026-01-19 |  |
+| **[HT-GNN: Hyper-Temporal Graph Neural Network for Customer Lifetime Value Prediction in Baidu Ads](https://arxiv.org/abs/2601.13013v1)** | 2026-01-19 |  |
+| **[Efficient Code Analysis via Graph-Guided Large Language Models](https://arxiv.org/abs/2601.12890v1)** | 2026-01-19 |  |
+| **[Hierarchical Sparse Circuit Extraction from Billion-Parameter Language Models through Scalable Attribution Graph Decomposition](https://arxiv.org/abs/2601.12879v1)** | 2026-01-19 |  |
+| **[Knowledge-Integrated Representation Learning for Crypto Anomaly Detection under Extreme Label Scarcity; Relational Domain-Logic Integration with Retrieval-Grounded Context and Path-Level Explanations](https://arxiv.org/abs/2601.12839v1)** | 2026-01-19 | <details><summary>Gyuye...</summary><p>Gyuyeon Na, Minjung Park, Soyoun Kim contributed equally to this work</p></details> |
+| **[Eddy-Resolving Global Ocean Forecasting with Multi-Scale Graph Neural Networks](https://arxiv.org/abs/2601.12775v1)** | 2026-01-19 |  |
+| **[A Boolean Function-Theoretic Framework for Expressivity in GNNs with Applications to Fair Graph Mining](https://arxiv.org/abs/2601.12751v1)** | 2026-01-19 |  |
+| **[A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection](https://arxiv.org/abs/2601.12745v1)** | 2026-01-19 |  |
 
