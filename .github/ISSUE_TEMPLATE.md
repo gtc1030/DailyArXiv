@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RONOM: Reduced-Order Neural Operator Modeling](https://arxiv.org/abs/2507.12814v2)** | 2026-01-23 |  |
+| **[Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces](https://arxiv.org/abs/2506.10224v2)** | 2026-01-22 |  |
 | **[EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning](https://arxiv.org/abs/2503.12538v2)** | 2026-01-18 | 13 pages |
 | **[Data-driven stochastic reduced-order modeling of parametrized dynamical systems](https://arxiv.org/abs/2601.10690v1)** | 2026-01-15 |  |
 | **[Symbolic Learning of Interpretable Reduced-Order Models for Jumping Quadruped Robots](https://arxiv.org/abs/2508.06538v2)** | 2026-01-13 | 8 pages |
@@ -58,12 +60,14 @@ labels: documentation
 | **[mLaSDI: Multi-stage latent space dynamics identification](https://arxiv.org/abs/2506.09207v3)** | 2025-12-23 |  |
 | **[Reduced-order autoregressive dynamics of a complex financial system: a PCA-based approach](https://arxiv.org/abs/2212.12044v2)** | 2025-12-23 | 12 pages, 6 figures |
 | **[Reduced Order Modeling for Tsunami Forecasting with Bayesian Hierarchical Pooling](https://arxiv.org/abs/2512.19804v1)** | 2025-12-22 |  |
-| **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v7)** | 2025-12-22 |  |
-| **[A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows](https://arxiv.org/abs/2512.19376v1)** | 2025-12-22 | 27 pages, 9 figures |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems](https://arxiv.org/abs/2509.03340v3)** | 2026-01-23 | <details><summary>9 pag...</summary><p>9 pages, 7 figures including appendices. Accepted to Machine Learning and the Physical Sciences Workshop, NeurIPS 2025 (https://ml4physicalsciences.github.io/2025/). Repository with corresponding code: https://github.com/FHendriks11/bifurcationML/. Video explanation: https://www.youtube.com/watch?v=wsL3h17KtjY</p></details> |
+| **[Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783v2)** | 2026-01-23 | 11 pages, 5 figures |
+| **[Joint learning of a network of linear dynamical systems via total variation penalization](https://arxiv.org/abs/2511.18737v2)** | 2026-01-23 | <details><summary>52 pa...</summary><p>52 pages, 10 figures, 2 tables, corrected minor typos</p></details> |
+| **[Hierarchical Physics-Embedded Learning for Prediction and Discovery in Spatiotemporal Dynamical Systems](https://arxiv.org/abs/2510.25306v2)** | 2026-01-23 |  |
 | **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v3)** | 2026-01-22 |  |
 | **[On the Nonasymptotic Scaling Guarantee of Hyperparameter Estimation in Inhomogeneous, Weakly-Dependent Complex Network Dynamical Systems](https://arxiv.org/abs/2601.15603v1)** | 2026-01-22 |  |
 | **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication at the 2026 American Control Conference</p></details> |
@@ -74,15 +78,15 @@ labels: documentation
 | **[Co-Buchi Barrier Certificates for Discrete-time Dynamical Systems](https://arxiv.org/abs/2311.07695v2)** | 2026-01-20 |  |
 | **[Stabilizing autoregressive forecasts in chaotic systems via multi-rate latent recurrence](https://arxiv.org/abs/2601.14487v1)** | 2026-01-20 |  |
 | **[Towards Fast Coarse-graining and Equation Discovery with Foundation Inference Models](https://arxiv.org/abs/2510.12618v2)** | 2026-01-20 |  |
-| **[Generating consensus and dissent on massive discussion platforms with an $O(N)$ semantic-vector model](https://arxiv.org/abs/2601.13932v1)** | 2026-01-20 | 9 pages, 8 figures |
-| **[GeoDynamics: A Geometric State-Space Neural Network for Understanding Brain Dynamics on Riemannian Manifolds](https://arxiv.org/abs/2601.13570v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[CausationEntropy: Pythonic Optimal Causation Entropy](https://arxiv.org/abs/2601.13365v1)** | 2026-01-19 |  |
-| **[Discovering equations from data: symbolic regression in dynamical systems](https://arxiv.org/abs/2508.20257v2)** | 2026-01-19 |  |
-| **[Training instability in deep learning follows low-dimensional dynamical principles](https://arxiv.org/abs/2601.13160v1)** | 2026-01-19 |  |
+| **[Latent Causal Diffusions for Single-Cell Perturbation Modeling](https://arxiv.org/abs/2601.15341v1)** | 2026-01-20 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization](https://arxiv.org/abs/2506.13911v2)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2025, 28 pages, 5 figures</p></details> |
+| **[E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](https://arxiv.org/abs/2601.16622v1)** | 2026-01-23 |  |
+| **[BoostFGL: Boosting Fairness in Federated Graph Learning](https://arxiv.org/abs/2601.16496v1)** | 2026-01-23 |  |
+| **[Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures](https://arxiv.org/abs/2601.16348v1)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint, submitted for review</p></details> |
 | **[Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data](https://arxiv.org/abs/2601.15977v1)** | 2026-01-22 |  |
 | **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v4)** | 2026-01-22 | 28 pages |
 | **[Communication-efficient Federated Graph Classification via Generative Diffusion Modeling](https://arxiv.org/abs/2601.15722v1)** | 2026-01-22 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[LoRAP: Low-Rank Aggregation Prompting for Quantized Graph Neural Networks Training](https://arxiv.org/abs/2601.15079v1)** | 2026-01-21 |  |
 | **[Federated Transformer-GNN for Privacy-Preserving Brain Tumor Localization with Modality-Level Explainability](https://arxiv.org/abs/2601.15042v1)** | 2026-01-21 |  |
 | **[ExPrIS: Knowledge-Level Expectations as Priors for Object Interpretation from Sensor Data](https://arxiv.org/abs/2601.15025v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in KI - Künstliche Intelligenz, and is available online at https://doi.org/10.1007/s13218-026-00901-7</p></details> |
-| **[U-PINet: Physics-Informed Hierarchical Learning for Radar Cross Section Prediction via 3D Electromagnetic Scattering Reconstruction](https://arxiv.org/abs/2508.03774v4)** | 2026-01-21 | <details><summary>Submi...</summary><p>Submitted to an Elsevier Journal</p></details> |
-| **[Learning and extrapolating scale-invariant processes](https://arxiv.org/abs/2601.14810v1)** | 2026-01-21 | 29p, 22 figures |
-| **[FSX: Message Flow Sensitivity Enhanced Structural Explainer for Graph Neural Networks](https://arxiv.org/abs/2601.14730v1)** | 2026-01-21 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, Preprint</p></details> |
-| **[PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering](https://arxiv.org/abs/2601.14720v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at WWW 2026, 12pages</p></details> |
 
