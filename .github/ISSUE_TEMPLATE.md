@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,13 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Modeling of Neural Dynamics via Latent Stochastic Differential Equations](https://arxiv.org/abs/2412.12112v2)** | 2026-02-04 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 1 table</p></details> |
+| **[Bayesian Transfer Operators in Reproducing Kernel Hilbert Spaces](https://arxiv.org/abs/2509.22482v2)** | 2026-02-04 |  |
+| **[LLM-Empowered Cooperative Content Caching in Vehicular Fog Caching-Assisted Platoon Networks](https://arxiv.org/abs/2602.04471v1)** | 2026-02-04 | <details><summary>Corre...</summary><p>Corresponding author: Qiong Wu (qiongwu@jiangnan.edu.cn)</p></details> |
+| **[Information Shapes Koopman Representation](https://arxiv.org/abs/2510.13025v2)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Turning mechanistic models into forecasters by using machine learning](https://arxiv.org/abs/2602.04114v1)** | 2026-02-04 | 47 pages, 11 figures |
+| **[Towards X-embodiment safety: A control theory perspective on transferring safety certificates across dynamical systems](https://arxiv.org/abs/2602.03987v1)** | 2026-02-03 |  |
+| **[Learning Hidden Physics and System Parameters with Deep Operator Networks](https://arxiv.org/abs/2412.05133v2)** | 2026-02-03 |  |
 | **[Conformal Reachability for Safe Control in Unknown Environments](https://arxiv.org/abs/2602.03799v1)** | 2026-02-03 |  |
 | **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004v2)** | 2026-02-03 | 28 pages, 23 figures |
 | **[Equilibrium Propagation for Non-Conservative Systems](https://arxiv.org/abs/2602.03670v1)** | 2026-02-03 | <details><summary>19 pa...</summary><p>19 pages (9 pages main text), 7 figures</p></details> |
@@ -72,30 +79,23 @@ labels: documentation
 | **[Inferring stochastic dynamics with growth from cross-sectional data](https://arxiv.org/abs/2505.13197v3)** | 2026-02-03 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, NeurIPS 2025</p></details> |
 | **[Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free](https://arxiv.org/abs/2505.16644v2)** | 2026-02-03 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, NeurIPS 2025</p></details> |
 | **[Geometry-Preserving Neural Architectures on Manifolds with Boundary](https://arxiv.org/abs/2602.03082v1)** | 2026-02-03 |  |
-| **[SC3D: Dynamic and Differentiable Causal Discovery for Temporal and Instantaneous Graphs](https://arxiv.org/abs/2602.02830v1)** | 2026-02-02 | 8 pages |
-| **[Backpropagation as Physical Relaxation: Exact Gradients in Finite Time](https://arxiv.org/abs/2602.02281v1)** | 2026-02-02 | 15 pages, 8 figures |
-| **[Training-free score-based diffusion for parameter-dependent stochastic dynamical systems](https://arxiv.org/abs/2602.02113v1)** | 2026-02-02 |  |
-| **[Probabilistic function-on-function nonlinear autoregressive model for emulation and reliability analysis of dynamical systems](https://arxiv.org/abs/2602.01929v1)** | 2026-02-02 |  |
-| **[CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions](https://arxiv.org/abs/2602.01844v1)** | 2026-02-02 | ICLR 2026 |
-| **[Sparse identification of nonlinear dynamics with library optimization mechanism: Recursive long-term prediction perspective](https://arxiv.org/abs/2507.18220v2)** | 2026-02-02 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Cybernetics (https://ieeexplore.ieee.org/document/11365958)</p></details> |
-| **[Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning](https://arxiv.org/abs/2511.20593v2)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v3)** | 2026-02-04 |  |
+| **[Graph Persistence goes Spectral](https://arxiv.org/abs/2506.06571v3)** | 2026-02-04 | <details><summary>32 pa...</summary><p>32 pages, 4 figures, 7 tables. Accepted at NeurIPS 2025. Final version, clarified minor bug</p></details> |
+| **[DMFlow: Disordered Materials Generation by Flow Matching](https://arxiv.org/abs/2602.04734v1)** | 2026-02-04 |  |
+| **[Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features](https://arxiv.org/abs/2508.08458v2)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at WWW 2026. Camera-ready version</p></details> |
+| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v2)** | 2026-02-04 |  |
+| **[Training A Foundation Model to Represent Graphs as Vectors](https://arxiv.org/abs/2602.04244v1)** | 2026-02-04 |  |
+| **[Incorporating graph neural network into route choice model](https://arxiv.org/abs/2503.02315v2)** | 2026-02-04 |  |
+| **[Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371v4)** | 2026-02-04 |  |
+| **[Resilient Routing: Risk-Aware Dynamic Routing in Smart Logistics via Spatiotemporal Graph Learning](https://arxiv.org/abs/2601.13632v2)** | 2026-02-03 |  |
+| **[Early-Exit Graph Neural Networks](https://arxiv.org/abs/2505.18088v2)** | 2026-02-03 | <details><summary>49 pa...</summary><p>49 pages, 26 figures. Under review</p></details> |
+| **[P-Tensors: a General Formalism for Constructing Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767v2)** | 2026-02-03 |  |
+| **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v1)** | 2026-02-03 |  |
 | **[Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network](https://arxiv.org/abs/2602.03808v1)** | 2026-02-03 |  |
 | **[Data-Driven Graph Filters via Adaptive Spectral Shaping](https://arxiv.org/abs/2602.03698v1)** | 2026-02-03 |  |
 | **[Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning](https://arxiv.org/abs/2602.03438v1)** | 2026-02-03 |  |
-| **[SPGCL: Simple yet Powerful Graph Contrastive Learning via SVD-Guided Structural Perturbation](https://arxiv.org/abs/2602.00064v2)** | 2026-02-03 |  |
-| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](https://arxiv.org/abs/2509.14863v2)** | 2026-02-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-51718-4}</p></details> |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v3)** | 2026-02-03 |  |
-| **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v2)** | 2026-02-03 |  |
-| **[MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal Graph Kolmogorov-Arnold Network](https://arxiv.org/abs/2602.01751v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This paper has been accepted by ICASSP 2026</p></details> |
-| **[Fast Task Planning with Neuro-Symbolic Relaxation](https://arxiv.org/abs/2507.15975v2)** | 2026-02-03 | 8 pages, 6 figures |
-| **[Multi-view Graph Condensation via Tensor Decomposition](https://arxiv.org/abs/2508.14330v2)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026</p></details> |
-| **[Eidolon: A Practical Post-Quantum Signature Scheme Based on k-Colorability in the Age of Graph Neural Networks](https://arxiv.org/abs/2602.02689v1)** | 2026-02-02 | 23 pages, 5 figures |
-| **[Graph-Augmented Reasoning with Large Language Models for Tobacco Pest and Disease Management](https://arxiv.org/abs/2602.02635v1)** | 2026-02-02 |  |
-| **[DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild](https://arxiv.org/abs/2602.02286v1)** | 2026-02-02 |  |
-| **[Graph Learning via Logic-Based Weisfeiler-Leman Variants and Tabularization](https://arxiv.org/abs/2508.10651v2)** | 2026-02-02 | <details><summary>New v...</summary><p>New version of the manuscript with the following fixes: 1. Clarified proof of the main theorem. 2. Revised the experimental section</p></details> |
-| **[Graph Homomorphism Distortion: A Metric to Distinguish Them All and in the Latent Space Bind Them](https://arxiv.org/abs/2511.03068v3)** | 2026-02-02 |  |
 
