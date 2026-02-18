@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v2)** | 2026-02-17 |  |
+| **[Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift](https://arxiv.org/abs/2602.15167v1)** | 2026-02-16 |  |
 | **[In Transformer We Trust? A Perspective on Transformer Architecture Failure Modes](https://arxiv.org/abs/2602.14318v1)** | 2026-02-15 | 46 pages, 34 Figures |
 | **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v2)** | 2026-02-14 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, Accepted and Presented to the 39th Conference on Neural Information Processing Systems (NeurIPS 2025): AI for Science Workshop</p></details> |
 | **[The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics](https://arxiv.org/abs/2602.12218v1)** | 2026-02-12 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Structured Knowledge and Reasoning](https://arxiv.org/abs/2506.02019v3)** | 2026-02-07 | 19 pages, 8 figures |
 | **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v2)** | 2026-02-06 |  |
 | **[Position: Universal Time Series Foundation Models Rest on a Category Error](https://arxiv.org/abs/2602.05287v1)** | 2026-02-05 | Position Paper |
-| **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004v2)** | 2026-02-03 | 28 pages, 23 figures |
-| **[Point Vortex Dynamics on Closed Surfaces](https://arxiv.org/abs/2602.03684v1)** | 2026-02-03 | <details><summary>Maste...</summary><p>Master Thesis, Technical University of Berlin</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition](https://arxiv.org/abs/2602.15632v1)** | 2026-02-17 |  |
 | **[Solving Inverse Parametrized Problems via Finite Elements and Extreme Learning Networks](https://arxiv.org/abs/2602.14757v1)** | 2026-02-16 |  |
 | **[A Structured Neural ODE Approach for Real Time Evaluation of AC Losses in 3D Superconducting Tapes](https://arxiv.org/abs/2510.14487v2)** | 2026-02-16 | <details><summary>in IE...</summary><p>in IEEE Transactions on Applied Superconductivity, 2026</p></details> |
 | **[AquaROM: shape optimization pipeline for soft swimmers using parametric reduced order models](https://arxiv.org/abs/2511.01031v2)** | 2026-02-16 |  |
@@ -59,11 +60,18 @@ labels: documentation
 | **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v8)** | 2026-01-24 |  |
 | **[RONOM: Reduced-Order Neural Operator Modeling](https://arxiv.org/abs/2507.12814v2)** | 2026-01-23 |  |
 | **[Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces](https://arxiv.org/abs/2506.10224v2)** | 2026-01-22 |  |
-| **[EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning](https://arxiv.org/abs/2503.12538v2)** | 2026-01-18 | 13 pages |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controlled oscillation modeling using port-Hamiltonian neural networks](https://arxiv.org/abs/2602.15704v1)** | 2026-02-17 |  |
+| **[Relative Geometry of Neural Forecasters: Linking Accuracy and Alignment in Learned Latent Geometry](https://arxiv.org/abs/2602.15676v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://arxiv.org/abs/2602.15649v1)** | 2026-02-17 |  |
+| **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
+| **[Uni-Flow: a unified autoregressive-diffusion model for complex multiscale flows](https://arxiv.org/abs/2602.15592v1)** | 2026-02-17 |  |
+| **[Safe Reinforcement Learning via Recovery-based Shielding with Gaussian Process Dynamics Models](https://arxiv.org/abs/2602.12444v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at AAMAS 2026</p></details> |
+| **[Causally constrained reduced-order neural models of complex turbulent dynamical systems](https://arxiv.org/abs/2602.13847v2)** | 2026-02-17 |  |
+| **[PolyNODE: Variable-dimension Neural ODEs on M-polyfolds](https://arxiv.org/abs/2602.15128v1)** | 2026-02-16 |  |
 | **[Drift-Diffusion Matching: Embedding dynamics in latent manifolds of asymmetric neural networks](https://arxiv.org/abs/2602.14885v1)** | 2026-02-16 | 23 pages, 15 figures |
 | **[VCDF: A Validated Consensus-Driven Framework for Time Series Causal Discovery](https://arxiv.org/abs/2410.19412v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2026</p></details> |
 | **[Preliminary sonification of ENSO using traditional Javanese gamelan scales](https://arxiv.org/abs/2602.14560v1)** | 2026-02-16 | 16 pages, 7 figures |
@@ -71,18 +79,17 @@ labels: documentation
 | **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v3)** | 2026-02-15 | 15 figures |
 | **[KoopGen: Koopman Generator Networks for Representing and Predicting Dynamical Systems with Continuous Spectra](https://arxiv.org/abs/2602.14011v1)** | 2026-02-15 | 25 pages |
 | **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v7)** | 2026-02-14 |  |
-| **[Causally constrained reduced-order neural models of complex turbulent dynamical systems](https://arxiv.org/abs/2602.13847v1)** | 2026-02-14 |  |
-| **[Learning Gradient Flow: Using Equation Discovery to Accelerate Engineering Optimization](https://arxiv.org/abs/2602.13513v1)** | 2026-02-13 | <details><summary>44 pa...</summary><p>44 pages, 13 figures. To be submitted to CMAME</p></details> |
-| **[Safe Reinforcement Learning via Recovery-based Shielding with Gaussian Process Dynamics Models](https://arxiv.org/abs/2602.12444v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted at AAMAS 2026</p></details> |
-| **[Interpolation-Inspired Closure Certificates](https://arxiv.org/abs/2602.12436v1)** | 2026-02-12 |  |
-| **[Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis](https://arxiv.org/abs/2602.12373v1)** | 2026-02-12 |  |
-| **[Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](https://arxiv.org/abs/2602.12139v1)** | 2026-02-12 |  |
-| **[Three factor delay learning rules for spiking neural networks](https://arxiv.org/abs/2601.00668v2)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v2)** | 2026-02-12 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v2)** | 2026-02-17 |  |
+| **[A Code Smell Refactoring Approach using GNNs](https://arxiv.org/abs/2511.12069v2)** | 2026-02-17 |  |
+| **[Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](https://arxiv.org/abs/2602.15634v1)** | 2026-02-17 |  |
+| **[On the Geometric Coherence of Global Aggregation in Federated GNN](https://arxiv.org/abs/2602.15510v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
+| **[NeuroLifting: Neural Inference on Markov Random Fields at Scale](https://arxiv.org/abs/2411.18954v3)** | 2026-02-17 |  |
+| **[Size Transferability of Graph Transformers with Convolutional Positional Encodings](https://arxiv.org/abs/2602.15239v1)** | 2026-02-16 |  |
+| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v2)** | 2026-02-16 |  |
 | **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](https://arxiv.org/abs/2506.01784v6)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
 | **[Learning Structural Hardness for Combinatorial Auctions: Instance-Dependent Algorithm Selection via Graph Neural Networks](https://arxiv.org/abs/2602.14772v1)** | 2026-02-16 |  |
 | **[Bayesian Cosmic Void Finding with Graph Flows](https://arxiv.org/abs/2602.14630v1)** | 2026-02-16 | <details><summary>8+3 p...</summary><p>8+3 pages, 9+2 figures. Comments welcome!</p></details> |
@@ -91,11 +98,4 @@ labels: documentation
 | **[Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/abs/2602.14279v1)** | 2026-02-15 |  |
 | **[A Hybrid TGN-SEAL Model for Dynamic Graph Link Prediction](https://arxiv.org/abs/2602.14239v1)** | 2026-02-15 |  |
 | **[Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](https://arxiv.org/abs/2409.11972v3)** | 2026-02-15 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization](https://arxiv.org/abs/2602.13921v1)** | 2026-02-14 | 46 pages, 14figures |
-| **[GraphFM: A generalist graph transformer that learns transferable representations across diverse domains](https://arxiv.org/abs/2407.11907v2)** | 2026-02-14 |  |
-| **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v2)** | 2026-02-14 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, Accepted and Presented to the 39th Conference on Neural Information Processing Systems (NeurIPS 2025): AI for Science Workshop</p></details> |
-| **[Optimization-Free Graph Embedding via Distributional Kernel for Community Detection](https://arxiv.org/abs/2602.13634v1)** | 2026-02-14 |  |
-| **[Learning to Approximate Uniform Facility Location via Graph Neural Networks](https://arxiv.org/abs/2602.13155v1)** | 2026-02-13 |  |
-| **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](https://arxiv.org/abs/2602.13140v1)** | 2026-02-13 | <details><summary>Code ...</summary><p>Code is at https://github.com/UNITES-Lab/flash-molecular-dynamics</p></details> |
-| **[Which Algorithms Can Graph Neural Networks Learn?](https://arxiv.org/abs/2602.13106v1)** | 2026-02-13 |  |
 
