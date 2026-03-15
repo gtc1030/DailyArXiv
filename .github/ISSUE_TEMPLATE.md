@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning-Based Metamodeling of Nonlinear Stochastic Dynamic Systems under Parametric and Predictive Uncertainty](https://arxiv.org/abs/2603.12012v1)** | 2026-03-12 |  |
+| **[A Foundational Theory of Quantitative Abstraction: Adjunctions, Duality, and Logic for Probabilistic Systems](https://arxiv.org/abs/2510.19444v3)** | 2026-03-12 | <details><summary>Some ...</summary><p>Some major mathematical errors that we need to rectify. We cannot specify exact error areas as they are spread throughout. The theorems need further development</p></details> |
+| **[Context-dependent manifold learning: A neuromodulated constrained autoencoder approach](https://arxiv.org/abs/2603.11673v1)** | 2026-03-12 | 14 pages, 10 figures |
+| **[Limited Reasoning Space: The cage of long-horizon reasoning in LLMs](https://arxiv.org/abs/2602.19281v2)** | 2026-03-12 |  |
 | **[Factorized Neural Implicit DMD for Parametric Dynamics](https://arxiv.org/abs/2603.10995v1)** | 2026-03-11 |  |
 | **[MCMC Informed Neural Emulators for Uncertainty Quantification in Dynamical Systems](https://arxiv.org/abs/2603.10987v1)** | 2026-03-11 |  |
 | **[Panda: A pretrained forecast model for chaotic dynamics](https://arxiv.org/abs/2505.13755v3)** | 2026-03-11 |  |
@@ -75,27 +79,23 @@ labels: documentation
 | **[A neural operator for predicting vibration frequency response curves from limited data](https://arxiv.org/abs/2603.10149v1)** | 2026-03-10 |  |
 | **[Upper Generalization Bounds for Neural Oscillators](https://arxiv.org/abs/2603.09742v1)** | 2026-03-10 | <details><summary>This ...</summary><p>This manuscript contains 25 pages with 4 figures</p></details> |
 | **[Symbolic Discovery of Stochastic Differential Equations with Genetic Programming](https://arxiv.org/abs/2603.09597v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 4 tables</p></details> |
-| **[Continual uncertainty learning](https://arxiv.org/abs/2602.17174v2)** | 2026-03-10 |  |
-| **[Stochastic Port-Hamiltonian Neural Networks: Universal Approximation with Passivity Guarantees](https://arxiv.org/abs/2603.10078v1)** | 2026-03-10 |  |
-| **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](https://arxiv.org/abs/2412.01297v3)** | 2026-03-10 |  |
-| **[A Gaussian Comparison Theorem for Training Dynamics in Machine Learning](https://arxiv.org/abs/2603.09310v1)** | 2026-03-10 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v1)** | 2026-03-12 |  |
+| **[Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing](https://arxiv.org/abs/2603.11944v1)** | 2026-03-12 |  |
+| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards](https://arxiv.org/abs/2408.06503v4)** | 2026-03-12 | <details><summary>Full ...</summary><p>Full paper version for AAMAS 2025 (https://ifaamas.org/Proceedings/aamas2025/pdfs/p2681.pdf), 9 pages, 5 figures</p></details> |
 | **[Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks](https://arxiv.org/abs/2603.10983v1)** | 2026-03-11 | <details><summary>2 pag...</summary><p>2 pages with 2 figures and 1 table. Accepted in 2026 International Applied Computational Electromagnetics Society (ACES) Symposium</p></details> |
 | **[Resource Allocation in Hybrid Radio-Optical IoT Networks using GNN with Multi-task Learning](https://arxiv.org/abs/2511.07428v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted for publications in IEEE Transactions on Machine Learning in Communications and Networking (TMLCN) 20 pages, 17 figures, 3 tables</p></details> |
 | **[Maximum entropy temporal networks](https://arxiv.org/abs/2509.02098v5)** | 2026-03-11 | 7 pages, 4 figures |
 | **[Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks](https://arxiv.org/abs/2603.10802v1)** | 2026-03-11 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Submitted to IEEE Transactions on Machine Learning in Communications and Networking</p></details> |
 | **[Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems](https://arxiv.org/abs/2602.18419v2)** | 2026-03-11 |  |
 | **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v1)** | 2026-03-11 | 33 pages, 7 figures |
+| **[Graph Tokenization for Bridging Graphs and Transformers](https://arxiv.org/abs/2603.11099v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted as a poster at ICLR 2026. Code is available at https://github.com/BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers</p></details> |
 | **[SCORE: Replacing Layer Stacking with Contractive Recurrent Depth](https://arxiv.org/abs/2603.10544v1)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages, 21 figures, 12 tableaux</p></details> |
 | **[GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification](https://arxiv.org/abs/2603.10298v1)** | 2026-03-11 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 11 tables, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop</p></details> |
 | **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v1)** | 2026-03-10 |  |
 | **[Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction](https://arxiv.org/abs/2603.10198v1)** | 2026-03-10 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables, submitted for IROS 2026</p></details> |
-| **[GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation](https://arxiv.org/abs/2603.09675v1)** | 2026-03-10 |  |
-| **[Provable Filter for Real-world Graph Clustering](https://arxiv.org/abs/2403.03666v2)** | 2026-03-10 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, accepted by IEEE Cybernetics</p></details> |
-| **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](https://arxiv.org/abs/2501.17901v3)** | 2026-03-10 |  |
-| **[Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates](https://arxiv.org/abs/2511.08317v2)** | 2026-03-10 |  |
-| **[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418v1)** | 2026-03-10 | <details><summary>The p...</summary><p>The paper is accepted by CVPR 2026</p></details> |
 
