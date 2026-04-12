@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,11 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Topological entropy of Turing complete dynamics](https://arxiv.org/abs/2404.07288v3)** | 2026-04-09 | <details><summary>25 pa...</summary><p>25 pages, 3 figures. Appendix merged into the body of the article (consequently, Ville Salo was added as an author), overall improvement of the exposition</p></details> |
+| **["Theater of Mind" for LLMs: A Cognitive Architecture Based on Global Workspace Theory](https://arxiv.org/abs/2604.08206v1)** | 2026-04-09 |  |
+| **[Injective and pseudo-injective polynomial equations: From permutations to dynamical systems](https://arxiv.org/abs/2604.04065v2)** | 2026-04-09 |  |
+| **[Tensor-based computation of the Koopman generator via operator logarithm](https://arxiv.org/abs/2604.07685v1)** | 2026-04-09 | 9 pages, 5 figure |
+| **[On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data](https://arxiv.org/abs/2604.07671v1)** | 2026-04-09 |  |
 | **[Amortized Filtering and Smoothing with Conditional Normalizing Flows](https://arxiv.org/abs/2604.07169v1)** | 2026-04-08 | 43 pages |
 | **[Controller Design for Structured State-space Models via Contraction Theory](https://arxiv.org/abs/2604.07069v1)** | 2026-04-08 | <details><summary>The f...</summary><p>The first and second authors contributed equally. The paper has been accepted in 24th European Control Conference (ECC) in Reykjavik, Iceland, 2026</p></details> |
 | **[MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems](https://arxiv.org/abs/2604.06881v1)** | 2026-04-08 | 23 pages, 9 figures |
@@ -74,15 +79,17 @@ labels: documentation
 | **[On Dominant Manifolds in Reservoir Computing Networks](https://arxiv.org/abs/2604.05967v1)** | 2026-04-07 | 6 pages, 3 figures |
 | **[WGFINNs: Weak formulation-based GENERIC formalism informed neural networks](https://arxiv.org/abs/2604.02601v2)** | 2026-04-07 |  |
 | **[Transfer Learning for Neural Parameter Estimation applied to Building RC Models](https://arxiv.org/abs/2604.05904v1)** | 2026-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[mNARX+: A surrogate model for complex dynamical systems using manifold-NARX and automatic feature selection](https://arxiv.org/abs/2507.13301v2)** | 2026-04-07 |  |
-| **[Parameterized complexity of the f-Critical Set problem](https://arxiv.org/abs/2511.11546v4)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 1 table</p></details> |
-| **[Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space](https://arxiv.org/abs/2604.05700v1)** | 2026-04-07 | <details><summary>41 pa...</summary><p>41 pages, 5 figures, journal paper</p></details> |
-| **[Estimating Dynamic Marginal Policy Effects under Sequential Unconfoundedness](https://arxiv.org/abs/2604.05639v1)** | 2026-04-07 |  |
-| **[LMI-Net: Linear Matrix Inequality--Constrained Neural Networks via Differentiable Projection Layers](https://arxiv.org/abs/2604.05374v1)** | 2026-04-07 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
+| **[U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations](https://arxiv.org/abs/2604.08295v1)** | 2026-04-09 |  |
+| **[OpenGLT: A Comprehensive Benchmark of Graph Neural Networks for Graph-Level Tasks](https://arxiv.org/abs/2501.00773v3)** | 2026-04-09 |  |
+| **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
+| **[AFGNN: API Misuse Detection using Graph Neural Networks and Clustering](https://arxiv.org/abs/2604.07891v1)** | 2026-04-09 |  |
+| **[Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction](https://arxiv.org/abs/2604.07781v1)** | 2026-04-09 |  |
+| **[Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery](https://arxiv.org/abs/2604.07512v1)** | 2026-04-08 |  |
 | **[Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability](https://arxiv.org/abs/2604.07292v1)** | 2026-04-08 |  |
 | **[BadImplant: Injection-based Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v2)** | 2026-04-08 |  |
 | **[Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction](https://arxiv.org/abs/2604.07126v1)** | 2026-04-08 | 5 pages, 2 figures |
@@ -91,11 +98,4 @@ labels: documentation
 | **[FlowAdam: Implicit Regularization via Geometry-Aware Soft Momentum Injection](https://arxiv.org/abs/2604.06652v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026 (IEEE WCCI). 8 pages, 4 figures</p></details> |
 | **[Predicting Alzheimer's disease progression using rs-fMRI and a history-aware graph neural network](https://arxiv.org/abs/2604.06469v1)** | 2026-04-07 | <details><summary>Proc....</summary><p>Proc. SPIE 13926, Medical Imaging 2026: Computer-Aided Diagnosis, 1392604</p></details> |
 | **[k-Maximum Inner Product Attention for Graph Transformers and the Expressive Power of GraphGPS](https://arxiv.org/abs/2604.03815v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 GRaM Workshop. 9 pages, 9 figures, 16 tables; 30 pages of supplementary material</p></details> |
-| **[Toward a universal foundation model for graph-structured data](https://arxiv.org/abs/2604.06391v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 12 supplementary figures</p></details> |
-| **[BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning](https://arxiv.org/abs/2604.06336v1)** | 2026-04-07 |  |
-| **[Interpreting Temporal Graph Neural Networks with Koopman Theory](https://arxiv.org/abs/2410.13469v2)** | 2026-04-07 |  |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[Incident-Guided Spatiotemporal Traffic Forecasting](https://arxiv.org/abs/2602.02528v2)** | 2026-04-07 |  |
-| **[Energy-Balanced Hyperspherical Graph Representation Learning via Structural Binding and Entropic Dispersion](https://arxiv.org/abs/2512.24062v2)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems</p></details> |
-| **[CROSS-Net: Region-Agnostic Taxi-Demand Prediction Using Feature Disentanglement](https://arxiv.org/abs/2310.18215v2)** | 2026-04-07 | <details><summary>An ac...</summary><p>An accepted journal article on IEEE Transactions on Intelligent Transportation System</p></details> |
 
