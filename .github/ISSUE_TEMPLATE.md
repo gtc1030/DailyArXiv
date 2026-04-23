@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://arxiv.org/abs/2604.20723v1)** | 2026-04-22 | 31 pages, 11 figures |
+| **[AI models of unstable flow exhibit hallucination](https://arxiv.org/abs/2604.20372v1)** | 2026-04-22 |  |
+| **[Going MLIR-native: Demonstrating a Future for DSL compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v1)** | 2026-04-21 | 17 pages, 5 figures |
 | **[Preserving Clusters in Error-Bounded Lossy Compression of Particle Data](https://arxiv.org/abs/2604.18801v1)** | 2026-04-20 |  |
 | **[Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD](https://arxiv.org/abs/2604.18491v1)** | 2026-04-20 | 7 pages, 4 figures |
 | **[XRePIT: A deep learning-computational fluid dynamics hybrid framework implemented in OpenFOAM for fast, robust, and scalable unsteady simulations](https://arxiv.org/abs/2510.21804v2)** | 2026-04-20 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[PhysInOne: Visual Physics Learning and Reasoning in One Suite](https://arxiv.org/abs/2604.09415v1)** | 2026-04-10 | <details><summary>CVPR ...</summary><p>CVPR 2026. Siyuan, Hejun, Hu, Jinxi, Dongsheng, Junwei, Yixiao, Jiayue, and Shiwei are co-first authors. Project page: https://vlar-group.github.io/PhysInOne.html</p></details> |
 | **[Hybrid Cold-Start Recommender System for Closure Model Selection in Multiphase Flow Simulations](https://arxiv.org/abs/2604.09112v1)** | 2026-04-10 |  |
 | **[Shocks without shock capturing: Information geometric regularization of finite volume methods for Navier--Stokes-like problems](https://arxiv.org/abs/2604.06546v1)** | 2026-04-08 |  |
-| **[Gaussian Field Representations for Turbulent Flow: Compression, Scale Separation, and Physical Fidelity](https://arxiv.org/abs/2604.16449v1)** | 2026-04-07 | <details><summary>21 pa...</summary><p>21 pages with 11 figures. Appendix section exists. Submitted to Computers and Fluids and it's under review</p></details> |
-| **[Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies](https://arxiv.org/abs/2604.05652v1)** | 2026-04-07 | 16 pages, 10 figures |
-| **[Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000v2)** | 2026-04-07 | 32 pages 4 tables |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,38 +64,38 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Response time of lateral predictive coding and benefits of modular structures](https://arxiv.org/abs/2604.20524v1)** | 2026-04-22 | <details><summary>16 pa...</summary><p>16 pages, under review in Physica A</p></details> |
+| **[Bounding Transient Instability in Sensor Data Injected Nonlinear Stochastic Flight Dynamics](https://arxiv.org/abs/2604.20517v1)** | 2026-04-22 |  |
+| **[CubeDAgger: Interactive Imitation Learning for Dynamic Systems with Efficient yet Low-risk Interaction](https://arxiv.org/abs/2505.04897v2)** | 2026-04-22 | 8 pages, 6 figures |
+| **[Artifacts of Numerical Integration in Learning Dynamical Systems](https://arxiv.org/abs/2507.14491v3)** | 2026-04-22 |  |
+| **[Text to model via SysML: Automated generation of dynamical system computational models from unstructured natural language text via enhanced System Modeling Language diagrams](https://arxiv.org/abs/2507.06803v3)** | 2026-04-22 | <details><summary>v3 - ...</summary><p>v3 - typos and imprecisions corrected, and added clarifications</p></details> |
+| **[Stochastic Barrier Certificates in the Presence of Dynamic Obstacles](https://arxiv.org/abs/2604.20208v1)** | 2026-04-22 |  |
+| **[Q-SINDy: Quantum-Kernel Sparse Identification of Nonlinear Dynamics with Provable Coefficient Debiasing](https://arxiv.org/abs/2604.16779v3)** | 2026-04-22 |  |
+| **[Trajectory-Aware Reliability Modeling of Democratic Systems](https://arxiv.org/abs/2604.20127v1)** | 2026-04-22 |  |
 | **[Generalization at the Edge of Stability](https://arxiv.org/abs/2604.19740v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://circle-group.github.io/research/GATES</p></details> |
 | **[Time-Scale Coupling Between States and Parameters in Recurrent Neural Networks](https://arxiv.org/abs/2508.12121v5)** | 2026-04-21 | final version |
 | **[Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment](https://arxiv.org/abs/2604.19548v1)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference. Project page: https://unikcc.github.io/ReTAS/</p></details> |
 | **[Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](https://arxiv.org/abs/2604.19018v1)** | 2026-04-21 | Under review |
-| **[Q-SINDy: Quantum-Kernel Sparse Identification of Nonlinear Dynamics with Provable Coefficient Debiasing](https://arxiv.org/abs/2604.16779v2)** | 2026-04-21 |  |
 | **[HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction](https://arxiv.org/abs/2604.18887v1)** | 2026-04-20 | 20 pages, 8 figures |
 | **[Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448v2)** | 2026-04-20 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 9 tables</p></details> |
 | **[Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems](https://arxiv.org/abs/2604.18548v1)** | 2026-04-20 |  |
-| **[Flow marching for a generative PDE foundation model](https://arxiv.org/abs/2509.18611v2)** | 2026-04-20 | <details><summary>This ...</summary><p>This work has been substantially expanded and superseded by arXiv:2602.11229</p></details> |
-| **[Upper Approximation Bounds for Neural Oscillators](https://arxiv.org/abs/2512.01015v2)** | 2026-04-19 | 37 pages, 11 figures |
-| **[Enhancing classification accuracy through chaos](https://arxiv.org/abs/2603.15299v2)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 8 figures Version 2 contains a selection process for the optimal chaotic evolution interval</p></details> |
-| **[Target Parameterization in Diffusion Models for Nonlinear Spatiotemporal System Identification](https://arxiv.org/abs/2604.17566v1)** | 2026-04-19 |  |
-| **[Machine Learning Hamiltonian Dynamical Systems with Sparse and Noisy Data](https://arxiv.org/abs/2604.17470v1)** | 2026-04-19 |  |
-| **[TrafficClaw: Generalizable Urban Traffic Control via Unified Physical Environment Modeling](https://arxiv.org/abs/2604.17456v1)** | 2026-04-19 |  |
-| **[Quantifying Spacetime Integration across a Partition with Synergy](https://arxiv.org/abs/2604.18635v1)** | 2026-04-18 | <details><summary>18 pa...</summary><p>18 pages; 3 figures; 3 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift](https://arxiv.org/abs/2604.19514v1)** | 2026-04-21 | <details><summary>Code ...</summary><p>Code to be released soon</p></details> |
-| **[Towards Generalization of Graph Neural Networks for AC Optimal Power Flow](https://arxiv.org/abs/2510.06860v2)** | 2026-04-21 | <details><summary>Pre-p...</summary><p>Pre-print has been submitted for review</p></details> |
-| **[The Logical Expressiveness of Topological Neural Networks](https://arxiv.org/abs/2604.19212v1)** | 2026-04-21 | <details><summary>39 pa...</summary><p>39 pages, Published at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Inductive Subgraphs as Shortcuts: Causal Disentanglement for Heterophilic Graph Learning](https://arxiv.org/abs/2604.19186v1)** | 2026-04-21 | SIGIR 2026 |
-| **[Pixels or Positions? Benchmarking Modalities in Group Activity Recognition](https://arxiv.org/abs/2511.12606v3)** | 2026-04-21 |  |
-| **[Graph Data Augmentation with Contrastive Learning on Covariate Distribution Shift](https://arxiv.org/abs/2512.00716v2)** | 2026-04-21 | 8 tables, 8 figures |
-| **[TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only](https://arxiv.org/abs/2604.19070v1)** | 2026-04-21 |  |
-| **[SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection](https://arxiv.org/abs/2604.19031v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 6 tables. Accepted by ISSTA 2026</p></details> |
-| **[Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://arxiv.org/abs/2604.19028v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. OpenReview: https://openreview.net/forum?id=FmxRzlu0rT</p></details> |
-| **[AI-Enabled Image-Based Hybrid Vision/Force Control of Tendon-Driven Aerial Continuum Manipulators](https://arxiv.org/abs/2604.18961v1)** | 2026-04-21 |  |
-| **[Spatiotemporal Link Formation Prediction in Social Learning Networks Using Graph Neural Networks](https://arxiv.org/abs/2604.18888v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published in Education Data Mining (EDM) 2026</p></details> |
-| **[Subgraph Concept Networks: Concept Levels in Graph Classification](https://arxiv.org/abs/2604.18868v1)** | 2026-04-20 |  |
-| **[Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis](https://arxiv.org/abs/2604.18765v1)** | 2026-04-20 |  |
-| **[Opinion de-polarization in social networks with GNNs](https://arxiv.org/abs/2412.09404v3)** | 2026-04-20 |  |
-| **[An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545v2)** | 2026-04-20 | 14 pages, 11 figures |
+| **[Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories](https://arxiv.org/abs/2604.20797v1)** | 2026-04-22 | 11 pages, 5 figures |
+| **[F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel](https://arxiv.org/abs/2604.20736v1)** | 2026-04-22 | 16 pages, 5 figures |
+| **[Storm Surge Modeling, Bias Correction, Graph Neural Networks, Graph Convolution Networks](https://arxiv.org/abs/2604.20688v1)** | 2026-04-22 | <details><summary>51 pa...</summary><p>51 pages, 9 figures, 5 tables</p></details> |
+| **[From Nodes to Narratives: Explaining Graph Neural Networks with LLMs and Graph Context](https://arxiv.org/abs/2508.07117v3)** | 2026-04-22 | Accepted to ACL 2026 |
+| **[Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge](https://arxiv.org/abs/2604.20598v1)** | 2026-04-22 | 17 pages, 4 tables |
+| **[Evaluating Assurance Cases as Text-Attributed Graphs for Structure and Provenance Analysis](https://arxiv.org/abs/2604.20577v1)** | 2026-04-22 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 8 tables. Accepted to EASE 2026 AI Models / Data track, Glasgow, United Kingdom</p></details> |
+| **[Forecasting Individual NetFlows using a Predictive Masked Graph Autoencoder](https://arxiv.org/abs/2604.20483v1)** | 2026-04-22 | 3 figures, 6 pages |
+| **[Mechanistic Interpretability Tool for AI Weather Models](https://arxiv.org/abs/2604.20467v1)** | 2026-04-22 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Submitted to International Conference on Computational Science 2026</p></details> |
+| **[Discrete Preference Learning for Personalized Multimodal Generation](https://arxiv.org/abs/2604.20434v1)** | 2026-04-22 | <details><summary>be ac...</summary><p>be accepted to SIGIR 2026</p></details> |
+| **[Robustness of Spatio-temporal Graph Neural Networks for Fault Location in Partially Observable Distribution Grids](https://arxiv.org/abs/2604.20403v1)** | 2026-04-22 |  |
+| **[Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](https://arxiv.org/abs/2604.20308v1)** | 2026-04-22 |  |
+| **[Multi-Perspective Evidence Synthesis and Reasoning for Unsupervised Multimodal Entity Linking](https://arxiv.org/abs/2604.20283v1)** | 2026-04-22 |  |
+| **[i-WiViG: Interpretable Window Vision GNN](https://arxiv.org/abs/2503.08321v2)** | 2026-04-22 |  |
+| **[FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing](https://arxiv.org/abs/2604.18644v2)** | 2026-04-22 |  |
+| **[Concept Graph Convolutions: Message Passing in the Concept Space](https://arxiv.org/abs/2604.20082v1)** | 2026-04-22 |  |
 
